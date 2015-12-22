@@ -1,0 +1,3094 @@
+From: <Saved by Blink>
+Subject: ??????-Apache Shiro???? - paulwong - BlogJava
+Date: Thu, 3 Jun 2015 04:41:03 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_F81F_72A2C5DE.AA019931"
+
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.blogjava.net/paulwong/archive/2012/01/28/368930.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head =
+id=3D"Head"><meta charset=3D"UTF-8"><title>
+	=E5=AE=89=E5=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6-Apache Shiro=E7=A0=
+=94=E7=A9=B6=E5=BF=83=E5=BE=97 - paulwong - BlogJava
+</title><meta id=3D"metaKeywords" name=3D"keywords" content=3D"=E5=AE=89=E5=
+=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6-Apache Shiro=E7=A0=94=E7=A9=B6=
+=E5=BF=83=E5=BE=97"><link type=3D"text/css" rel=3D"stylesheet" href=3D"http=
+://www.blogjava.net/css/common.css"><link id=3D"MainCss" type=3D"text/css" =
+rel=3D"stylesheet" href=3D"http://www.blogjava.net/Skins/MTRusty/style.css"=
+><link id=3D"RSSLink" title=3D"RSS" type=3D"application/rss+xml" rel=3D"alt=
+ernate" href=3D"http://www.blogjava.net/paulwong/rss.aspx"></head>
+<body>
+    <form name=3D"Form1" method=3D"post" action=3D"http://www.blogjava.net/=
+paulwong/archive/2012/01/28/368930.html" onsubmit=3D"javascript:return WebF=
+orm_OnSubmit();" id=3D"Form1">
+<div>
+<input type=3D"hidden" name=3D"__EVENTTARGET" id=3D"__EVENTTARGET" value=3D=
+"">
+<input type=3D"hidden" name=3D"__EVENTARGUMENT" id=3D"__EVENTARGUMENT" valu=
+e=3D"">
+<input type=3D"hidden" name=3D"__VIEWSTATE" id=3D"
+__VIEWSTATE" value=3D"">
+</div>
+
+
+
+
+
+
+
+											=09
+
+
+
+
+
+       =20
+
+<div id=3D"top">
+
+<h1><a id=3D"Header1_HeaderTitle" class=3D"headermaintitle" href=3D"http://=
+www.blogjava.net/paulwong/">paulwong</a></h1>
+<p id=3D"tagline"></p>
+</div>
+
+<div id=3D"rightmenu" style=3D"display: inline;">
+
+=09
+<h3>My Links</h3>
+<ul>
+			<li></li>
+			<li><a id=3D"MyLinks1_MyHomeLink" href=3D"http://www.blogjava.net/paulwo=
+ng/">=E9=A6=96=E9=A1=B5</a></li>
+			<li><a id=3D"MyLinks1_ContactLink" accesskey=3D"9" href=3D"http://www.bl=
+ogjava.net/paulwong/contact.aspx?id=3D1">=E8=81=94=E7=B3=BB</a></li>
+			<li><a id=3D"MyLinks1_Syndication" href=3D"http://www.blogjava.net/paulw=
+ong/rss">=E8=81=9A=E5=90=88</a> <a id=3D"MyLinks1_XMLLink" href=3D"http://w=
+ww.blogjava.net/paulwong/rss"><img src=3D"http://www.blogjava.net/images/xm=
+l.gif" style=3D"border-width:0px;"></a>
+			</li><li><a id=3D"MyLinks1_Admin" href=3D"http://www.blogjava.net/paulwo=
+ng/admin/EditPosts.aspx">=E7=AE=A1=E7=90=86</a></li>
+</ul>
+=09
+<h3>Blog Stats</h3>
+	<ul>
+		<li>Posts - 801
+		</li><li>Stories - 10
+		</li><li>Comments - 90
+		</li><li>Trackbacks - 0
+	</li>
+</ul>
+=09
+=09
+<h3>=E5=B8=B8=E7=94=A8=E9=93=BE=E6=8E=A5</h3>
+<ul>
+		<li><a id=3D"SingleColumn1_ctl00_repeaterLinks_ctl01_lnkLinkItem" href=3D=
+"http://www.blogjava.net/paulwong/MyPosts.html">=E6=88=91=E7=9A=84=E9=9A=8F=
+=E7=AC=94</a></li>
+=09
+		<li><a id=3D"SingleColumn1_ctl00_repeaterLinks_ctl02_lnkLinkItem" href=3D=
+"http://www.blogjava.net/paulwong/MyComments.html">=E6=88=91=E7=9A=84=E8=AF=
+=84=E8=AE=BA</a></li>
+=09
+		<li><a id=3D"SingleColumn1_ctl00_repeaterLinks_ctl03_lnkLinkItem" href=3D=
+"http://www.blogjava.net/paulwong/OtherPosts.html">=E6=88=91=E7=9A=84=E5=8F=
+=82=E4=B8=8E</a></li>
+=09
+		<li><a id=3D"SingleColumn1_ctl00_repeaterLinks_ctl04_lnkLinkItem" href=3D=
+"http://www.blogjava.net/paulwong/RecentComments.html">=E6=9C=80=E6=96=B0=
+=E8=AF=84=E8=AE=BA</a></li>
+	</ul>
+<h3>=E7=95=99=E8=A8=80=E7=B0=BF<span style=3D"font-size:11px;font-weight:no=
+rmal;">(24)</span></h3>
+<ul>
+	<li>
+		<a id=3D"SingleColumn1_ctl01_lnkMessages" href=3D"http://www.blogjava.net=
+/paulwong/Contact.aspx?id=3D1">=E7=BB=99=E6=88=91=E7=95=99=E8=A8=80</a>
+	</li><li>
+		<a id=3D"SingleColumn1_ctl01_lnkPublicMsgView" href=3D"http://www.blogjav=
+a.net/paulwong/default.aspx?opt=3Dmsg">=E6=9F=A5=E7=9C=8B=E5=85=AC=E5=BC=80=
+=E7=95=99=E8=A8=80</a>
+	</li><li>
+		<a id=3D"SingleColumn1_ctl01_lnkPrivateMsgView" href=3D"http://www.blogja=
+va.net/paulwong/admin/MyMessages.aspx">=E6=9F=A5=E7=9C=8B=E7=A7=81=E4=BA=BA=
+=E7=95=99=E8=A8=80</a>
+	</li>
+</ul>
+
+		<h3>=E9=9A=8F=E7=AC=94=E5=88=86=E7=B1=BB<span style=3D"font-size:11px;fon=
+t-weight:normal">(905)</span></h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl01_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/11298.html">AJAX(3)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl01_RssLink" ti=
+tle=3D"Subscribe to AJAX(3)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/11298.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl02_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/51708.html">ANDROID(6)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl02_RssLink"=
+ title=3D"Subscribe to ANDROID(6)" href=3D"http://www.blogjava.net/paulwong=
+/category/51708.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl03_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54396.html">ANGULARJS(6=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl03_RssLin=
+k" title=3D"Subscribe to ANGULARJS(6)" href=3D"http://www.blogjava.net/paul=
+wong/category/54396.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl04_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50682.html">Apache Shir=
+o(4)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl04_Rss=
+Link" title=3D"Subscribe to Apache Shiro(4)" href=3D"http://www.blogjava.ne=
+t/paulwong/category/50682.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl05_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50172.html">APPFUSE(1)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl05_RssLink"=
+ title=3D"Subscribe to APPFUSE(1)" href=3D"http://www.blogjava.net/paulwong=
+/category/50172.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl06_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50897.html">APPLE(2)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl06_RssLink" t=
+itle=3D"Subscribe to APPLE(2)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/50897.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl07_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53879.html">AWS(1)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl07_RssLink" tit=
+le=3D"Subscribe to AWS(1)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/53879.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl08_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53832.html">BIG DATA(6)=
+</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl08_RssLink=
+" title=3D"Subscribe to BIG DATA(6)" href=3D"http://www.blogjava.net/paulwo=
+ng/category/53832.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl09_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/51457.html">BONITA(2)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl09_RssLink" =
+title=3D"Subscribe to BONITA(2)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/51457.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl10_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54104.html">BOOTSTRAP(9=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl10_RssLin=
+k" title=3D"Subscribe to BOOTSTRAP(9)" href=3D"http://www.blogjava.net/paul=
+wong/category/54104.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl11_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54395.html">CAMEL(1)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl11_RssLink" t=
+itle=3D"Subscribe to CAMEL(1)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/54395.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl12_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53807.html">CHUKWA(1)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl12_RssLink" =
+title=3D"Subscribe to CHUKWA(1)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/53807.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl13_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/38309.html">Configurati=
+on Management(8)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkLi=
+st_ctl13_RssLink" title=3D"Subscribe to Configuration Management(8)" href=
+=3D"http://www.blogjava.net/paulwong/category/38309.html/rss">(rss)</a></li=
+>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl14_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53087.html">CONTROL-M(1=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl14_RssLin=
+k" title=3D"Subscribe to CONTROL-M(1)" href=3D"http://www.blogjava.net/paul=
+wong/category/53087.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl15_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/12268.html">Design Patt=
+ern(7)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl15_R=
+ssLink" title=3D"Subscribe to Design Pattern(7)" href=3D"http://www.blogjav=
+a.net/paulwong/category/12268.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl16_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/14164.html">DHTML(5)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl16_RssLink" t=
+itle=3D"Subscribe to DHTML(5)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/14164.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl17_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54394.html">ECLIPSE(1)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl17_RssLink"=
+ title=3D"Subscribe to ECLIPSE(1)" href=3D"http://www.blogjava.net/paulwong=
+/category/54394.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl18_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50186.html">EJB3(9)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl18_RssLink" ti=
+tle=3D"Subscribe to EJB3(9)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/50186.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl19_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53889.html">ELASTICSEAR=
+CH(4)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl19_Rs=
+sLink" title=3D"Subscribe to ELASTICSEARCH(4)" href=3D"http://www.blogjava.=
+net/paulwong/category/53889.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl20_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/37333.html">EXTJS(3)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl20_RssLink" t=
+itle=3D"Subscribe to EXTJS(3)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/37333.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl21_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54549.html">FASTDFS(5)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl21_RssLink"=
+ title=3D"Subscribe to FASTDFS(5)" href=3D"http://www.blogjava.net/paulwong=
+/category/54549.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl22_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53988.html">FLUME(1)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl22_RssLink" t=
+itle=3D"Subscribe to FLUME(1)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/53988.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl23_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52508.html">FUTURES(1)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl23_RssLink"=
+ title=3D"Subscribe to FUTURES(1)" href=3D"http://www.blogjava.net/paulwong=
+/category/52508.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl24_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50835.html">HADOOP(50)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl24_RssLink"=
+ title=3D"Subscribe to HADOOP(50)" href=3D"http://www.blogjava.net/paulwong=
+/category/50835.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl25_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52574.html">HBASE(26)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl25_RssLink" =
+title=3D"Subscribe to HBASE(26)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/52574.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl26_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/11301.html">HIBERNATE(1=
+1)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl26_RssLi=
+nk" title=3D"Subscribe to HIBERNATE(11)" href=3D"http://www.blogjava.net/pa=
+ulwong/category/11301.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl27_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53870.html">HIVE(1)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl27_RssLink" ti=
+tle=3D"Subscribe to HIVE(1)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/53870.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl28_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53697.html">HTML5(1)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl28_RssLink" t=
+itle=3D"Subscribe to HTML5(1)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/53697.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl29_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53443.html">HTTPCLIENT(=
+4)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl29_RssLi=
+nk" title=3D"Subscribe to HTTPCLIENT(4)" href=3D"http://www.blogjava.net/pa=
+ulwong/category/53443.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl30_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53621.html">IOS(1)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl30_RssLink" tit=
+le=3D"Subscribe to IOS(1)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/53621.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl31_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/45411.html">IPHONE(3)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl31_RssLink" =
+title=3D"Subscribe to IPHONE(3)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/45411.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl32_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/11299.html">J2EE(105)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl32_RssLink" =
+title=3D"Subscribe to J2EE(105)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/11299.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl33_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/11300.html">J2SE(45)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl33_RssLink" t=
+itle=3D"Subscribe to J2SE(45)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/11300.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl34_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/49742.html">JAAS(1)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl34_RssLink" ti=
+tle=3D"Subscribe to JAAS(1)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/49742.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl35_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54629.html">JAVA=E6=A1=
+=86=E6=9E=B6(1)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkLis=
+t_ctl35_RssLink" title=3D"Subscribe to JAVA=E6=A1=86=E6=9E=B6(1)" href=3D"h=
+ttp://www.blogjava.net/paulwong/category/54629.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl36_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54024.html">JAX-RS(3)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl36_RssLink" =
+title=3D"Subscribe to JAX-RS(3)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/54024.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl37_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52931.html">JAZZ(1)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl37_RssLink" ti=
+tle=3D"Subscribe to JAZZ(1)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/52931.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl38_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50517.html">JBOSS(24)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl38_RssLink" =
+title=3D"Subscribe to JBOSS(24)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/50517.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl39_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/37052.html">JBPM(33)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl39_RssLink" t=
+itle=3D"Subscribe to JBPM(33)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/37052.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl40_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50704.html">JENKINS(7)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl40_RssLink"=
+ title=3D"Subscribe to JENKINS(7)" href=3D"http://www.blogjava.net/paulwong=
+/category/50704.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl41_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52326.html">JJ=E6=96=97=
+=E4=BA=89(2)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_c=
+tl41_RssLink" title=3D"Subscribe to JJ=E6=96=97=E4=BA=89(2)" href=3D"http:/=
+/www.blogjava.net/paulwong/category/52326.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl42_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/51879.html">JMS(1)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl42_RssLink" tit=
+le=3D"Subscribe to JMS(1)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/51879.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl43_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/41057.html">JQuery(6)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl43_RssLink" =
+title=3D"Subscribe to JQuery(6)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/41057.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl44_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53433.html">JSOUP(1)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl44_RssLink" t=
+itle=3D"Subscribe to JSOUP(1)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/53433.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl45_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53886.html">KAFKA(2)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl45_RssLink" t=
+itle=3D"Subscribe to KAFKA(2)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/53886.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl46_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50768.html">LINUX(24)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl46_RssLink" =
+title=3D"Subscribe to LINUX(24)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/50768.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl47_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53880.html">LOG ANALYST=
+ BIG DATA SYSTEM(14)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_Li=
+nkList_ctl47_RssLink" title=3D"Subscribe to LOG ANALYST BIG DATA SYSTEM(14)=
+" href=3D"http://www.blogjava.net/paulwong/category/53880.html/rss">(rss)</=
+a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl48_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54282.html">LOGBACK(2)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl48_RssLink"=
+ title=3D"Subscribe to LOGBACK(2)" href=3D"http://www.blogjava.net/paulwong=
+/category/54282.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl49_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52742.html">MAC(4)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl49_RssLink" tit=
+le=3D"Subscribe to MAC(4)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/52742.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl50_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/49942.html">MAVEN(12)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl50_RssLink" =
+title=3D"Subscribe to MAVEN(12)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/49942.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl51_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53575.html">MINA(3)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl51_RssLink" ti=
+tle=3D"Subscribe to MINA(3)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/53575.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl52_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53872.html">MONGODB(22)=
+</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl52_RssLink=
+" title=3D"Subscribe to MONGODB(22)" href=3D"http://www.blogjava.net/paulwo=
+ng/category/53872.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl53_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/51744.html">MULE(2)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl53_RssLink" ti=
+tle=3D"Subscribe to MULE(2)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/51744.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl54_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53563.html">MYSQL(5)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl54_RssLink" t=
+itle=3D"Subscribe to MYSQL(5)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/53563.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl55_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54729.html">NETTY(3)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl55_RssLink" t=
+itle=3D"Subscribe to NETTY(3)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/54729.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl56_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54021.html">NGINX(1)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl56_RssLink" t=
+itle=3D"Subscribe to NGINX(1)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/54021.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl57_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53683.html">OPENSTACK(2=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl57_RssLin=
+k" title=3D"Subscribe to OPENSTACK(2)" href=3D"http://www.blogjava.net/paul=
+wong/category/53683.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl58_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53479.html">PIG(7)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl58_RssLink" tit=
+le=3D"Subscribe to PIG(7)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/53479.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl59_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/40402.html">Process Man=
+agement(5)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl=
+59_RssLink" title=3D"Subscribe to Process Management(5)" href=3D"http://www=
+.blogjava.net/paulwong/category/40402.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl60_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/38539.html">Project Man=
+agement(31)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ct=
+l60_RssLink" title=3D"Subscribe to Project Management(31)" href=3D"http://w=
+ww.blogjava.net/paulwong/category/38539.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl61_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53871.html">REDIS(12)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl61_RssLink" =
+title=3D"Subscribe to REDIS(12)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/53871.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl62_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50629.html">Requirement=
+ Analyst(10)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_c=
+tl62_RssLink" title=3D"Subscribe to Requirement Analyst(10)" href=3D"http:/=
+/www.blogjava.net/paulwong/category/50629.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl63_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54497.html">RESTFUL-API=
+(1)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl63_RssL=
+ink" title=3D"Subscribe to RESTFUL-API(1)" href=3D"http://www.blogjava.net/=
+paulwong/category/54497.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl64_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54746.html">RPC(1)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl64_RssLink" tit=
+le=3D"Subscribe to RPC(1)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/54746.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl65_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/44411.html">RUP(3)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl65_RssLink" tit=
+le=3D"Subscribe to RUP(3)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/44411.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl66_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53654.html">R=E8=AF=AD=
+=E8=A8=80(4)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_c=
+tl66_RssLink" title=3D"Subscribe to R=E8=AF=AD=E8=A8=80(4)" href=3D"http://=
+www.blogjava.net/paulwong/category/53654.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl67_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54631.html">SAMZA(1)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl67_RssLink" t=
+itle=3D"Subscribe to SAMZA(1)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/54631.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl68_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54652.html">SOA(2)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl68_RssLink" tit=
+le=3D"Subscribe to SOA(2)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/54652.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl69_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50946.html">SOFTWARE AR=
+CHITECTURE(19)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList=
+_ctl69_RssLink" title=3D"Subscribe to SOFTWARE ARCHITECTURE(19)" href=3D"ht=
+tp://www.blogjava.net/paulwong/category/50946.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl70_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54077.html">SOLR/LUCENC=
+E(2)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl70_Rss=
+Link" title=3D"Subscribe to SOLR/LUCENCE(2)" href=3D"http://www.blogjava.ne=
+t/paulwong/category/54077.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl71_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/38240.html">SPRING(26)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl71_RssLink"=
+ title=3D"Subscribe to SPRING(26)" href=3D"http://www.blogjava.net/paulwong=
+/category/38240.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl72_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/51928.html">SPRING INTE=
+RGRATION(6)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ct=
+l72_RssLink" title=3D"Subscribe to SPRING INTERGRATION(6)" href=3D"http://w=
+ww.blogjava.net/paulwong/category/51928.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl73_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50899.html">SPRING MVC(=
+13)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl73_RssL=
+ink" title=3D"Subscribe to SPRING MVC(13)" href=3D"http://www.blogjava.net/=
+paulwong/category/50899.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl74_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52669.html">SRPING BATC=
+H(12)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl74_Rs=
+sLink" title=3D"Subscribe to SRPING BATCH(12)" href=3D"http://www.blogjava.=
+net/paulwong/category/52669.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl75_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53883.html">STORM(9)</a=
+> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl75_RssLink" t=
+itle=3D"Subscribe to STORM(9)" href=3D"http://www.blogjava.net/paulwong/cat=
+egory/53883.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl76_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54327.html">SVN(3)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl76_RssLink" tit=
+le=3D"Subscribe to SVN(3)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/54327.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl77_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/20169.html">System Anal=
+yst(5)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl77_R=
+ssLink" title=3D"Subscribe to System Analyst(5)" href=3D"http://www.blogjav=
+a.net/paulwong/category/20169.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl78_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50525.html">TESTIGN(9)<=
+/a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl78_RssLink"=
+ title=3D"Subscribe to TESTIGN(9)" href=3D"http://www.blogjava.net/paulwong=
+/category/50525.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl79_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54018.html">TOMCAT(9)</=
+a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl79_RssLink" =
+title=3D"Subscribe to TOMCAT(9)" href=3D"http://www.blogjava.net/paulwong/c=
+ategory/54018.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl80_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54108.html">UI(3)</a> <=
+a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl80_RssLink" titl=
+e=3D"Subscribe to UI(3)" href=3D"http://www.blogjava.net/paulwong/category/=
+54108.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl81_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50267.html">UML(2)</a> =
+<a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl81_RssLink" tit=
+le=3D"Subscribe to UML(2)" href=3D"http://www.blogjava.net/paulwong/categor=
+y/50267.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl82_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/51272.html">WEBSERVICE(=
+5)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl82_RssLi=
+nk" title=3D"Subscribe to WEBSERVICE(5)" href=3D"http://www.blogjava.net/pa=
+ulwong/category/51272.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl83_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/13395.html">Websphere(6=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl83_RssLin=
+k" title=3D"Subscribe to Websphere(6)" href=3D"http://www.blogjava.net/paul=
+wong/category/13395.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl84_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53765.html">WIRESHARK(1=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl84_RssLin=
+k" title=3D"Subscribe to WIRESHARK(1)" href=3D"http://www.blogjava.net/paul=
+wong/category/53765.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl85_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/52733.html">ZOOKEEPER(5=
+)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl85_RssLin=
+k" title=3D"Subscribe to ZOOKEEPER(5)" href=3D"http://www.blogjava.net/paul=
+wong/category/52733.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl86_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/47742.html">=E4=B8=AD=
+=E8=8D=AF(4)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_c=
+tl86_RssLink" title=3D"Subscribe to =E4=B8=AD=E8=8D=AF(4)" href=3D"http://w=
+ww.blogjava.net/paulwong/category/47742.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl87_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/50970.html">=E4=BA=91=
+=E8=AE=A1=E7=AE=97(46)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_=
+LinkList_ctl87_RssLink" title=3D"Subscribe to =E4=BA=91=E8=AE=A1=E7=AE=97(4=
+6)" href=3D"http://www.blogjava.net/paulwong/category/50970.html/rss">(rss)=
+</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl88_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/48261.html">=E5=86=85=
+=E5=AE=B9=E7=AE=A1=E7=90=86CMS(3)</a> <a id=3D"SingleColumn1_Categories_Cat=
+List_ctl00_LinkList_ctl88_RssLink" title=3D"Subscribe to =E5=86=85=E5=AE=B9=
+=E7=AE=A1=E7=90=86CMS(3)" href=3D"http://www.blogjava.net/paulwong/category=
+/48261.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl89_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/47498.html">=E5=88=86=
+=E5=B8=83=E5=BC=8F(40)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_=
+LinkList_ctl89_RssLink" title=3D"Subscribe to =E5=88=86=E5=B8=83=E5=BC=8F(4=
+0)" href=3D"http://www.blogjava.net/paulwong/category/47498.html/rss">(rss)=
+</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl90_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53869.html">=E5=88=86=
+=E5=B8=83=E5=BC=8F=E6=90=9C=E7=B4=A2(2)</a> <a id=3D"SingleColumn1_Categori=
+es_CatList_ctl00_LinkList_ctl90_RssLink" title=3D"Subscribe to =E5=88=86=E5=
+=B8=83=E5=BC=8F=E6=90=9C=E7=B4=A2(2)" href=3D"http://www.blogjava.net/paulw=
+ong/category/53869.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl91_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53313.html">=E5=A4=96=
+=E5=8C=85=E7=A7=81=E6=B4=BB(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl91_RssLink" title=3D"Subscribe to =E5=A4=96=E5=8C=85=E7=
+=A7=81=E6=B4=BB(1)" href=3D"http://www.blogjava.net/paulwong/category/53313=
+.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl92_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/41454.html">=E5=AD=A6=
+=E4=B9=A0=E8=A7=86=E9=A2=91(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl92_RssLink" title=3D"Subscribe to =E5=AD=A6=E4=B9=A0=E8=
+=A7=86=E9=A2=91(1)" href=3D"http://www.blogjava.net/paulwong/category/41454=
+.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl93_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54287.html">=E5=BE=AE=
+=E4=BF=A1(3)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_c=
+tl93_RssLink" title=3D"Subscribe to =E5=BE=AE=E4=BF=A1(3)" href=3D"http://w=
+ww.blogjava.net/paulwong/category/54287.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl94_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/49903.html">=E6=80=A7=
+=E8=83=BD=E4=BC=98=E5=8C=96(59)</a> <a id=3D"SingleColumn1_Categories_CatLi=
+st_ctl00_LinkList_ctl94_RssLink" title=3D"Subscribe to =E6=80=A7=E8=83=BD=
+=E4=BC=98=E5=8C=96(59)" href=3D"http://www.blogjava.net/paulwong/category/4=
+9903.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl95_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54688.html">=E6=80=A7=
+=E8=83=BD=E6=B5=8B=E8=AF=95(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl95_RssLink" title=3D"Subscribe to =E6=80=A7=E8=83=BD=E6=
+=B5=8B=E8=AF=95(1)" href=3D"http://www.blogjava.net/paulwong/category/54688=
+.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl96_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54446.html">=E6=8E=A8=
+=E8=8D=90=E7=B3=BB=E7=BB=9F(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl96_RssLink" title=3D"Subscribe to =E6=8E=A8=E8=8D=90=E7=
+=B3=BB=E7=BB=9F(1)" href=3D"http://www.blogjava.net/paulwong/category/54446=
+.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl97_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54437.html">=E6=95=99=
+=E7=A8=8B(1)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_c=
+tl97_RssLink" title=3D"Subscribe to =E6=95=99=E7=A8=8B(1)" href=3D"http://w=
+ww.blogjava.net/paulwong/category/54437.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl98_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/53284.html">=E6=9D=83=
+=E9=99=90=E7=AE=A1=E7=90=86(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl98_RssLink" title=3D"Subscribe to =E6=9D=83=E9=99=90=E7=
+=AE=A1=E7=90=86(1)" href=3D"http://www.blogjava.net/paulwong/category/53284=
+.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl99_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/54632.html">=E6=AF=8F=
+=E5=B9=B4=E9=A2=84=E8=A8=80(2)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl99_RssLink" title=3D"Subscribe to =E6=AF=8F=E5=B9=B4=E9=
+=A2=84=E8=A8=80(2)" href=3D"http://www.blogjava.net/paulwong/category/54632=
+.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl100_Lin=
+k" href=3D"http://www.blogjava.net/paulwong/category/50646.html">=E7=81=AB=
+=E8=BD=A6=E7=AB=99=E5=94=AE=E7=A5=A8=E7=B3=BB=E7=BB=9F(3)</a> <a id=3D"Sing=
+leColumn1_Categories_CatList_ctl00_LinkList_ctl100_RssLink" title=3D"Subscr=
+ibe to =E7=81=AB=E8=BD=A6=E7=AB=99=E5=94=AE=E7=A5=A8=E7=B3=BB=E7=BB=9F(3)" =
+href=3D"http://www.blogjava.net/paulwong/category/50646.html/rss">(rss)</a>=
+</li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl101_Lin=
+k" href=3D"http://www.blogjava.net/paulwong/category/50662.html">=E7=BC=93=
+=E5=AD=98(14)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_=
+ctl101_RssLink" title=3D"Subscribe to =E7=BC=93=E5=AD=98(14)" href=3D"http:=
+//www.blogjava.net/paulwong/category/50662.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl00_LinkList_ctl102_Lin=
+k" href=3D"http://www.blogjava.net/paulwong/category/53679.html">=E7=BD=91=
+=E9=A1=B5=E8=AE=BE=E8=AE=A1(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl00_LinkList_ctl102_RssLink" title=3D"Subscribe to =E7=BD=91=E9=A1=B5=
+=E8=AE=BE=E8=AE=A1(1)" href=3D"http://www.blogjava.net/paulwong/category/53=
+679.html/rss">(rss)</a></li>
+		=09
+				</ul>
+		=09
+=09
+		<h3>=E9=9A=8F=E7=AC=94=E6=A1=A3=E6=A1=88<span style=3D"font-size:11px;fon=
+t-weight:normal">(755)</span></h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl01_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2015/05.html">2015=E5=B9=
+=B45=E6=9C=88 (8)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl02_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2015/04.html">2015=E5=B9=
+=B44=E6=9C=88 (7)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl03_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2015/03.html">2015=E5=B9=
+=B43=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl04_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2015/02.html">2015=E5=B9=
+=B42=E6=9C=88 (15)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl05_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2015/01.html">2015=E5=B9=
+=B41=E6=9C=88 (12)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl06_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/12.html">2014=E5=B9=
+=B412=E6=9C=88 (19)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl07_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/11.html">2014=E5=B9=
+=B411=E6=9C=88 (10)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl08_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/10.html">2014=E5=B9=
+=B410=E6=9C=88 (14)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl09_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/09.html">2014=E5=B9=
+=B49=E6=9C=88 (12)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl10_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/08.html">2014=E5=B9=
+=B48=E6=9C=88 (12)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl11_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/07.html">2014=E5=B9=
+=B47=E6=9C=88 (37)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl12_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/06.html">2014=E5=B9=
+=B46=E6=9C=88 (14)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl13_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/05.html">2014=E5=B9=
+=B45=E6=9C=88 (23)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl14_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/04.html">2014=E5=B9=
+=B44=E6=9C=88 (10)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl15_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/03.html">2014=E5=B9=
+=B43=E6=9C=88 (7)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl16_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/02.html">2014=E5=B9=
+=B42=E6=9C=88 (6)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl17_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2014/01.html">2014=E5=B9=
+=B41=E6=9C=88 (8)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl18_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/12.html">2013=E5=B9=
+=B412=E6=9C=88 (6)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl19_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/11.html">2013=E5=B9=
+=B411=E6=9C=88 (12)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl20_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/10.html">2013=E5=B9=
+=B410=E6=9C=88 (11)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl21_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/09.html">2013=E5=B9=
+=B49=E6=9C=88 (13)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl22_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/08.html">2013=E5=B9=
+=B48=E6=9C=88 (14)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl23_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/07.html">2013=E5=B9=
+=B47=E6=9C=88 (8)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl24_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/06.html">2013=E5=B9=
+=B46=E6=9C=88 (13)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl25_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/05.html">2013=E5=B9=
+=B45=E6=9C=88 (15)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl26_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/04.html">2013=E5=B9=
+=B44=E6=9C=88 (10)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl27_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/03.html">2013=E5=B9=
+=B43=E6=9C=88 (19)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl28_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/02.html">2013=E5=B9=
+=B42=E6=9C=88 (15)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl29_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2013/01.html">2013=E5=B9=
+=B41=E6=9C=88 (13)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl30_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/12.html">2012=E5=B9=
+=B412=E6=9C=88 (10)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl31_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/11.html">2012=E5=B9=
+=B411=E6=9C=88 (8)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl32_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/10.html">2012=E5=B9=
+=B410=E6=9C=88 (22)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl33_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/09.html">2012=E5=B9=
+=B49=E6=9C=88 (15)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl34_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/08.html">2012=E5=B9=
+=B48=E6=9C=88 (6)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl35_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/07.html">2012=E5=B9=
+=B47=E6=9C=88 (11)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl36_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/06.html">2012=E5=B9=
+=B46=E6=9C=88 (7)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl37_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/05.html">2012=E5=B9=
+=B45=E6=9C=88 (20)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl38_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/04.html">2012=E5=B9=
+=B44=E6=9C=88 (23)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl39_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/03.html">2012=E5=B9=
+=B43=E6=9C=88 (19)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl40_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/02.html">2012=E5=B9=
+=B42=E6=9C=88 (26)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl41_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2012/01.html">2012=E5=B9=
+=B41=E6=9C=88 (30)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl42_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/12.html">2011=E5=B9=
+=B412=E6=9C=88 (11)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl43_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/11.html">2011=E5=B9=
+=B411=E6=9C=88 (14)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl44_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/10.html">2011=E5=B9=
+=B410=E6=9C=88 (13)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl45_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/09.html">2011=E5=B9=
+=B49=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl46_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/08.html">2011=E5=B9=
+=B48=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl47_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/05.html">2011=E5=B9=
+=B45=E6=9C=88 (7)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl48_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/04.html">2011=E5=B9=
+=B44=E6=9C=88 (7)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl49_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/03.html">2011=E5=B9=
+=B43=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl50_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/02.html">2011=E5=B9=
+=B42=E6=9C=88 (9)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl51_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2011/01.html">2011=E5=B9=
+=B41=E6=9C=88 (4)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl52_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/12.html">2010=E5=B9=
+=B412=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl53_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/11.html">2010=E5=B9=
+=B411=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl54_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/09.html">2010=E5=B9=
+=B49=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl55_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/06.html">2010=E5=B9=
+=B46=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl56_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/04.html">2010=E5=B9=
+=B44=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl57_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/03.html">2010=E5=B9=
+=B43=E6=9C=88 (4)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl58_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/02.html">2010=E5=B9=
+=B42=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl59_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2010/01.html">2010=E5=B9=
+=B41=E6=9C=88 (3)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl60_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/12.html">2009=E5=B9=
+=B412=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl61_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/11.html">2009=E5=B9=
+=B411=E6=9C=88 (3)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl62_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/10.html">2009=E5=B9=
+=B410=E6=9C=88 (3)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl63_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/09.html">2009=E5=B9=
+=B49=E6=9C=88 (7)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl64_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/08.html">2009=E5=B9=
+=B48=E6=9C=88 (4)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl65_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/07.html">2009=E5=B9=
+=B47=E6=9C=88 (10)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl66_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/06.html">2009=E5=B9=
+=B46=E6=9C=88 (3)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl67_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/05.html">2009=E5=B9=
+=B45=E6=9C=88 (5)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl68_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/03.html">2009=E5=B9=
+=B43=E6=9C=88 (11)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl69_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/02.html">2009=E5=B9=
+=B42=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl70_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2009/01.html">2009=E5=B9=
+=B41=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl71_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2008/12.html">2008=E5=B9=
+=B412=E6=9C=88 (11)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl72_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2008/02.html">2008=E5=B9=
+=B42=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl73_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2008/01.html">2008=E5=B9=
+=B41=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl74_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2007/07.html">2007=E5=B9=
+=B47=E6=9C=88 (3)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl75_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2007/04.html">2007=E5=B9=
+=B44=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl76_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/12.html">2006=E5=B9=
+=B412=E6=9C=88 (2)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl77_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/11.html">2006=E5=B9=
+=B411=E6=9C=88 (3)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl78_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/10.html">2006=E5=B9=
+=B410=E6=9C=88 (5)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl79_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/08.html">2006=E5=B9=
+=B48=E6=9C=88 (4)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl80_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/07.html">2006=E5=B9=
+=B47=E6=9C=88 (8)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl81_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/06.html">2006=E5=B9=
+=B46=E6=9C=88 (5)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl01_LinkList_ctl82_Link=
+" href=3D"http://www.blogjava.net/paulwong/archive/2006/05.html">2006=E5=B9=
+=B45=E6=9C=88 (10)</a> </li>
+		=09
+				</ul>
+		=09
+=09
+		<h3>=E6=96=87=E7=AB=A0=E5=88=86=E7=B1=BB<span style=3D"font-size:11px;fon=
+t-weight:normal">(7)</span></h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl01_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/10812.html">AJAX(1)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl01_RssLink" ti=
+tle=3D"Subscribe to AJAX(1)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/10812.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl02_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/10810.html">J2EE(3)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl02_RssLink" ti=
+tle=3D"Subscribe to J2EE(3)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/10810.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl03_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/10814.html">J2SE(2)</a>=
+ <a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl03_RssLink" ti=
+tle=3D"Subscribe to J2SE(2)" href=3D"http://www.blogjava.net/paulwong/categ=
+ory/10814.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl02_LinkList_ctl04_Link=
+" href=3D"http://www.blogjava.net/paulwong/category/11304.html">=E5=8E=86=
+=E5=8F=B2=E4=BA=BA=E6=96=87(1)</a> <a id=3D"SingleColumn1_Categories_CatLis=
+t_ctl02_LinkList_ctl04_RssLink" title=3D"Subscribe to =E5=8E=86=E5=8F=B2=E4=
+=BA=BA=E6=96=87(1)" href=3D"http://www.blogjava.net/paulwong/category/11304=
+.html/rss">(rss)</a></li>
+		=09
+				</ul>
+		=09
+=09
+		<h3>=E6=96=87=E7=AB=A0=E6=A1=A3=E6=A1=88<span style=3D"font-size:11px;fon=
+t-weight:normal">(10)</span></h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl01_Link=
+" href=3D"http://www.blogjava.net/paulwong/archives/2014/12.html">2014=E5=
+=B9=B412=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl02_Link=
+" href=3D"http://www.blogjava.net/paulwong/archives/2014/11.html">2014=E5=
+=B9=B411=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl03_Link=
+" href=3D"http://www.blogjava.net/paulwong/archives/2013/12.html">2013=E5=
+=B9=B412=E6=9C=88 (1)</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl03_LinkList_ctl04_Link=
+" href=3D"http://www.blogjava.net/paulwong/archives/2006/05.html">2006=E5=
+=B9=B45=E6=9C=88 (7)</a> </li>
+		=09
+				</ul>
+		=09
+=09
+		<h3>=E7=9B=B8=E5=86=8C</h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl04_LinkList_ctl01_Link=
+" href=3D"http://www.blogjava.net/paulwong/gallery/10815.html">Test</a> </l=
+i>
+		=09
+				</ul>
+		=09
+=09
+		<h3>=E6=94=B6=E8=97=8F=E5=A4=B9<span style=3D"font-size:11px;font-weight:=
+normal">(2)</span></h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl05_LinkList_ctl01_Link=
+" href=3D"http://www.blogjava.net/paulwong/favorite/36452.html">Test</a> <a=
+ id=3D"SingleColumn1_Categories_CatList_ctl05_LinkList_ctl01_RssLink" title=
+=3D"Subscribe to Test" href=3D"http://www.blogjava.net/paulwong/favorite/36=
+452.html/rss">(rss)</a></li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl05_LinkList_ctl02_Link=
+" href=3D"http://www.blogjava.net/paulwong/favorite/44521.html">=E6=8A=8A=
+=E5=A6=B9=E6=9C=AF(2)</a> <a id=3D"SingleColumn1_Categories_CatList_ctl05_L=
+inkList_ctl02_RssLink" title=3D"Subscribe to =E6=8A=8A=E5=A6=B9=E6=9C=AF(2)=
+" href=3D"http://www.blogjava.net/paulwong/favorite/44521.html/rss">(rss)</=
+a></li>
+		=09
+				</ul>
+		=09
+=09
+		<h3>Develop</h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl01_Link=
+" href=3D"http://en.wikipedia.org/wiki/4%2B1">4+1 Architectural View Model<=
+/a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl02_Link=
+" href=3D"http://man.chinaunix.net/newsoft/jboss.htm">Apache=E5=AE=89=E8=A3=
+=85=E5=8F=8Ajboss=E9=83=A8=E7=BD=B2=E8=AF=B4=E6=98=8E=E6=96=87=E6=A1=A3</a>=
+ </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl03_Link=
+" href=3D"https://appthwack.com/project/mt-ringtone-creator/run/15850?view_=
+mode=3Dhighlights&amp;highlights_view_mode=3Dhighlights_by_type" target=3D"=
+_blank">APK=E8=87=AA=E5=8A=A8=E5=8C=96=E6=B5=8B=E8=AF=95=E7=BD=91=E7=AB=99<=
+/a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl04_Link=
+" href=3D"http://www.sparxsystems.cn/resources/business_process_model.html"=
+>Enterprise Architect=E4=B8=AD=E6=96=87=E7=BD=91</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl05_Link=
+" href=3D"http://jstang.cn/ajaxjs/index/" target=3D"_blank">EXT =E4=B8=AD=
+=E6=96=87=E7=AB=99 ver2.0 since 2006-11-20 </a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl06_Link=
+" href=3D"http://173.194.1.150/" target=3D"_blank">GOOGLE</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl07_Link=
+" href=3D"http://74.125.3.231/" target=3D"_blank">GOOGLE</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl08_Link=
+" href=3D"http://www.goread.io/">GOREAD RSS=E9=98=85=E8=AF=BB=E5=99=A8</a> =
+</li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl09_Link=
+" href=3D"https://inoreader.com/#subscription/1565321" target=3D"_blank">IN=
+OREADER RSS=E9=98=85=E8=AF=BB=E5=99=A8</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl10_Link=
+" href=3D"http://www.huihoo.org/jboss/jboss3_ejb.htm">JBoss3.0 =E4=B8=8B=E9=
+=85=8D=E7=BD=AE=E5=92=8C=E9=83=A8=E7=BD=B2EJB=E7=AE=80=E4=BB=8B</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl11_Link=
+" href=3D"http://www.texotela.co.uk/code/jquery/select/">Jquery Option Plug=
+-in</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl12_Link=
+" href=3D"http://www.blogjava.net/fastzch/">Robin's Java World</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl13_Link=
+" href=3D"http://www.pw88.com/e/DownSys/DownSoft/?classid=3D38&amp;id=3D596=
+67&amp;pathid=3D0">SQL2005=E5=AE=A2=E6=88=B7=E7=AB=AF=E4=B8=8B=E8=BD=BD</a>=
+ </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl14_Link=
+" href=3D"http://www.dojochina.com/">=E4=B8=80=E4=B8=AAextjs=E7=9A=84=E5=A5=
+=BD=E7=BD=91=E7=AB=99</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl15_Link=
+" href=3D"http://www.ideotechnologies.com/documentation/sweetdev-en/help-do=
+c.htm#getting_started/addressbook/displaycontacts.htm">=E4=B8=80=E4=B8=AA=
+=E9=9D=9E=E5=B8=B8=E4=B8=8D=E9=94=99=E7=9A=84J2EE=E6=A1=86=E6=9E=B6=E3=80=
+=82</a> </li>
+			<li style=3D"margin-top:2px;">=E4=B8=80=E4=B8=AA=E9=9D=9E=E5=B8=B8=E4=B8=
+=8D=E9=94=99=E7=9A=84J2EE=E6=A1=86=E6=9E=B6=EF=BC=8C=E4=BB=8E=E5=89=8D=E7=
+=AB=AF=E7=9A=84JSP=EF=BC=8C=E5=88=B0=E8=8F=9C=E5=8D=95=EF=BC=8C=E7=94=A8=E6=
+=88=B7=E5=92=8C=E6=9D=83=E9=99=90=EF=BC=8C=E9=83=BD=E6=9C=89=E4=BA=86=EF=BC=
+=8C=E8=BF=98=E9=9B=86=E6=88=90=E4=BA=86STRUTS=E3=80=82</li>
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl16_Link=
+" href=3D"http://www.yuanfengflexo.com/cn/index.html">=E4=B8=9C=E8=8E=9E=E6=
+=BA=90=E4=B8=B0=E5=8D=B0=E5=88=B7</a> </li>
+			<li style=3D"margin-top:2px;">=E6=9C=AC=E4=BA=BA=E8=AE=BE=E8=AE=A1</li>
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl17_Link=
+" href=3D"http://js.itivy.com/jiaoben1765/index.html" target=3D"_blank">=E4=
+=B8=AD=E5=9B=BD=E8=B1=A1=E6=A3=8B</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl18_Link=
+" href=3D"http://www.chinaarchitect.org/">=E4=B8=AD=E5=9B=BD=E8=BD=AF=E4=BB=
+=B6=E6=9E=B6=E6=9E=84=E5=B8=88=E7=BD=91</a> </li>
+			<li style=3D"margin-top:2px;">=E4=B8=8D=E9=94=99=E7=9A=84=E5=9F=B9=E8=AE=
+=AD=E7=BD=91=EF=BC=8C=E6=9C=89=E7=9B=B8=E5=85=B3=E6=96=87=E6=A1=A3=E4=B8=8B=
+=E8=BD=BD=E3=80=82</li>
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl19_Link=
+" href=3D"http://img.vim-cn.com/" target=3D"_blank">=E4=BF=9D=E5=AD=98=E6=
+=88=AA=E5=9B=BE=E7=9A=84=E7=BD=91=E7=AB=99</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl20_Link=
+" href=3D"http://blog.fens.me/" target=3D"_blank">=E5=90=84=E7=A7=8D=E5=A4=
+=A7=E6=95=B0=E6=8D=AE</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl21_Link=
+" href=3D"http://fex-team.baidu.com/kityminder/dist/#">=E5=9C=A8=E7=BA=BF=
+=E6=80=9D=E7=BB=B4=E5=AF=BC=E5=9B=BE=E5=B7=A5=E5=85=B7</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl22_Link=
+" href=3D"http://www.cnblogs.com/xguo/">=E5=A4=A7=E6=95=B0=E6=8D=AE=E7=9B=
+=B8=E5=85=B3=E5=BA=94=E7=94=A8</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl23_Link=
+" href=3D"http://wenku.baidu.com/view/7f79bce919e8b8f67d1cb904.html">=E5=BB=
+=BA=E6=A8=A1=E5=B7=A5=E5=85=B7EA=E7=9A=84=E4=BD=BF=E7=94=A8</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl24_Link=
+" href=3D"http://meet.faqee.com/" target=3D"_blank">=E5=BC=80=E6=BA=90=E4=
+=BC=9A=E8=AE=AE=E7=B3=BB=E7=BB=9F</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl25_Link=
+" href=3D"http://support.apple.com/kb/TS3297?viewlocale=3Dzh_CN">=E6=97=A0=
+=E6=B3=95=E8=BF=9E=E6=8E=A5ITUNES STORE=E7=9A=84=E5=8E=9F=E5=9B=A0</a> </li=
+>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl26_Link=
+" href=3D"http://bbs.szhome.com/11385.html">=E6=B7=B1=E5=9C=B3=E6=88=BF=E7=
+=BD=91</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl27_Link=
+" href=3D"http://api.oupag.com/dev/api/shenzhentong.php?cardno=3D323852635"=
+ target=3D"_blank">=E6=B7=B1=E5=9C=B3=E9=80=9A=E4=BD=99=E9=A2=9D=E6=9F=A5=
+=E8=AF=A2</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl28_Link=
+" href=3D"http://ocw.nctu.edu.tw/riki_detail.php?pgid=3D179&amp;cgid=3D5">=
+=E7=AE=A1=E7=90=86=E5=AD=B8 </a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl06_LinkList_ctl29_Link=
+" href=3D"http://www.tocwc.org.tw/ocw.php?page=3D1&amp;kind=3D&amp;key=3D">=
+=E9=96=8B=E6=94=BE=E5=BC=8F=E8=AA=B2=E7=A8=8B</a> </li>
+		=09
+				</ul>
+		=09
+=09
+		<h3>Other</h3>
+	=09
+				<ul>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl07_LinkList_ctl01_Link=
+" href=3D"http://user.qzone.qq.com/229916378/blog/1237813244">=E4=B8=8D=E9=
+=94=99=E7=9A=84=E7=BD=91=E6=91=98</a> </li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl07_LinkList_ctl02_Link=
+" href=3D"http://www.dygod.com/">=E5=A4=A9=E5=A0=82=E7=94=B5=E5=BD=B1</a> <=
+/li>
+		=09
+				<li><a id=3D"SingleColumn1_Categories_CatList_ctl07_LinkList_ctl03_Link=
+" href=3D"http://g.ho.st/?language=3Dzh">=E7=BD=91=E7=BB=9C=E6=93=8D=E4=BD=
+=9C=E7=B3=BB=E7=BB=9F</a> </li>
+		=09
+				</ul>
+		=09
+=09
+
+
+
+
+<h3>=E6=90=9C=E7=B4=A2</h3>
+<ul>
+	<li>
+		</li><li><input style=3D"WIDTH: 130px" type=3D"text" name=3D"q" id=3D"q" =
+onkeydown=3D"return SearchGoogle(document.getElementById('q'),event,'www.bl=
+ogjava.net/paulwong')">&nbsp;<input onclick=3D"SearchGoogle(document.getEle=
+mentById('q'),event,'www.blogjava.net/paulwong')" type=3D"button" value=3D"=
+=E6=90=9C=E7=B4=A2" name=3D"sa">
+	</li>
+</ul>
+
+<h3>=E6=9C=80=E6=96=B0=E8=AF=84=E8=AE=BA
+	<a id=3D"SingleColumn1__2c0eb7e_RSSHyperlink1" href=3D"http://www.blogjava=
+.net/paulwong/CommentsRSS.aspx"><img src=3D"http://www.blogjava.net/images/=
+xml.gif" style=3D"border-width:0px;"></a></h3>
+<div class=3D"RecentComment">
+=09
+			<ul>
+	=09
+			<li style=3D"word-break:break-all">
+				<a id=3D"SingleColumn1__2c0eb7e_CommentList_ctl01_Hyperlink1" href=3D"h=
+ttp://www.blogjava.net/paulwong/archive/2015/06/02/415488.html#425445">1.&n=
+bsp;re: Maven=E5=AE=89=E8=A3=85jar=E6=96=87=E4=BB=B6=E5=88=B0=E6=9C=AC=E5=
+=9C=B0=E4=BB=93=E5=BA=93</a>
+			</li>
+			<li style=3D"word-break:break-all">
+				=E6=88=91=E4=B9=9F=E4=BD=BF=E7=94=A8=E8=BF=87=E8=BF=99=E4=B8=AA=E9=85=
+=8D=E7=BD=AE=EF=BC=8C=E4=BD=86=E6=98=AF=E5=9C=A8maven=E4=BB=8E2.2.1=E5=8D=
+=87=E7=BA=A7=E5=88=B03.0.4=E6=97=B6=E5=B0=B1=E5=87=BA=E7=8E=B0=E9=97=AE=E9=
+=A2=98=E4=BA=86=EF=BC=8C=E8=BF=99=E5=87=A0=E4=B8=AA=E5=A4=96=E9=83=A8=E7=9A=
+=84jar=E6=B2=A1=E6=9C=89install=E5=88=B0=E6=9C=AC=E5=9C=B0=E4=BB=93=E5=BA=
+=93=EF=BC=8C=E8=AF=B7=E9=97=AE=E7=9F=A5=E9=81=93=E4=B8=BA=E4=BB=80=E4=B9=88=
+=E5=90=97=EF=BC=9F
+			</li>
+			<li style=3D"text-align:right;margin-right:4px">
+				--Ihsan</li>
+	=09
+			<li style=3D"word-break:break-all">
+				<a id=3D"SingleColumn1__2c0eb7e_CommentList_ctl02_Hyperlink1" href=3D"h=
+ttp://www.blogjava.net/paulwong/archive/2015/06/01/419177.html#425425">2.&n=
+bsp;re: springMVC =E6=96=87=E4=BB=B6=E4=B8=8B=E8=BD=BD[=E6=9C=AA=E7=99=BB=
+=E5=BD=95]</a>
+			</li>
+			<li style=3D"word-break:break-all">
+				=E4=B8=8B=E8=BD=BD=E5=A4=A7=E6=96=87=E4=BB=B6=E7=9A=84=E6=97=B6=E5=80=
+=99=E4=BC=9A=E5=86=85=E5=AD=98=E6=BA=A2=E5=87=BA
+			</li>
+			<li style=3D"text-align:right;margin-right:4px">
+				--jimmy</li>
+	=09
+			<li style=3D"word-break:break-all">
+				<a id=3D"SingleColumn1__2c0eb7e_CommentList_ctl03_Hyperlink1" href=3D"h=
+ttp://www.blogjava.net/paulwong/archive/2015/05/19/423020.html#425157">3.&n=
+bsp;re: Spring Boot=E4=BD=BF=E7=94=A8redis=E5=81=9A=E6=95=B0=E6=8D=AE=E7=BC=
+=93=E5=AD=98</a>
+			</li>
+			<li style=3D"word-break:break-all">
+				@zzf<br>=E8=BF=99=E9=87=8C=E5=8F=AA=E6=98=AF=E6=91=98=E5=BD=95=E4=BA=86=
+=E9=83=A8=E4=BB=BD=E4=BB=A3=E7=A0=81=EF=BC=8C=E8=BF=98=E6=9C=89RedisConnect=
+ionFactory =EF=BC=8C=E8=BF=99=E4=B8=AA=E5=8F=AF=E4=BB=A5=E4=B8=8A=E7=BD=91=
+=E6=9F=A5=E4=BA=9B=E8=B5=84=E6=96=99=E5=8D=B3=E5=8F=AF=E3=80=82
+			</li>
+			<li style=3D"text-align:right;margin-right:4px">
+				--paulwong</li>
+	=09
+			<li style=3D"word-break:break-all">
+				<a id=3D"SingleColumn1__2c0eb7e_CommentList_ctl04_Hyperlink1" href=3D"h=
+ttp://www.blogjava.net/paulwong/archive/2015/05/14/423020.html#425076">4.&n=
+bsp;re: Spring Boot=E4=BD=BF=E7=94=A8redis=E5=81=9A=E6=95=B0=E6=8D=AE=E7=BC=
+=93=E5=AD=98[=E6=9C=AA=E7=99=BB=E5=BD=95]</a>
+			</li>
+			<li style=3D"word-break:break-all">
+				 REDIS=E6=9C=8D=E5=8A=A1=E5=99=A8=E9=85=8D=E7=BD=AE=EF=BC=9AProperties =
+=E5=A6=82=E4=BD=95=E4=BD=BF=E7=94=A8
+			</li>
+			<li style=3D"text-align:right;margin-right:4px">
+				--zzf</li>
+	=09
+			<li style=3D"word-break:break-all">
+				<a id=3D"SingleColumn1__2c0eb7e_CommentList_ctl05_Hyperlink1" href=3D"h=
+ttp://www.blogjava.net/paulwong/archive/2015/05/14/423020.html#425075">5.&n=
+bsp;re: Spring Boot=E4=BD=BF=E7=94=A8redis=E5=81=9A=E6=95=B0=E6=8D=AE=E7=BC=
+=93=E5=AD=98[=E6=9C=AA=E7=99=BB=E5=BD=95]</a>
+			</li>
+			<li style=3D"word-break:break-all">
+				=E9=85=8D=E7=BD=AE=E5=A6=82=E4=BD=95=E4=BD=BF=E7=94=A8
+			</li>
+			<li style=3D"text-align:right;margin-right:4px">
+				--zzf</li>
+	=09
+			</ul>
+	=09
+</div>
+
+<h3>=E9=98=85=E8=AF=BB=E6=8E=92=E8=A1=8C=E6=A6=9C</h3>
+<div class=3D"RecentComment">
+=09
+			<ul style=3D"word-break:break-all">
+	=09
+			<li>
+				<a id=3D"SingleColumn1__1bc7002_TopList_ctl01_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2012/03/23/372564.html">1.&nbsp;Spring =
+MVC =E7=9A=84=E8=AF=B7=E6=B1=82=E5=8F=82=E6=95=B0=E8=8E=B7=E5=8F=96=E7=9A=
+=84=E5=87=A0=E7=A7=8D=E6=96=B9=E6=B3=95(37576)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__1bc7002_TopList_ctl02_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2012/03/19/372220.html">2.&nbsp;=E5=9F=
+=BA=E4=BA=8E=E6=B3=A8=E8=A7=A3=E7=9A=84SpringMVC+freemarker=E7=8E=AF=E5=A2=
+=83=E6=90=AD=E5=BB=BA(18956)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__1bc7002_TopList_ctl03_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2013/10/31/405860.html">3.&nbsp;Flume=
+=E6=97=A5=E5=BF=97=E6=94=B6=E9=9B=86(17106)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__1bc7002_TopList_ctl04_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2009/09/30/297024.html">4.&nbsp;=E4=B8=
+=AD=E5=9B=BD=E7=94=B5=E4=BF=A1=E6=97=A0=E7=BA=BF=E5=AE=BD=E5=B8=A6=E7=8C=AB=
+=E5=BC=80=E5=90=AF=E8=B7=AF=E7=94=B1=E5=8A=9F=E8=83=BD=E7=9A=84=E6=96=B9=E6=
+=B3=95=EF=BC=81(15680)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__1bc7002_TopList_ctl05_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2012/03/19/372161.html">5.&nbsp;activit=
+i5.6=E5=AE=89=E8=A3=85=E5=AE=9E=E6=88=98(14193)</a>
+			</li>
+	=09
+			</ul>
+	=09
+</div>
+
+<h3>=E8=AF=84=E8=AE=BA=E6=8E=92=E8=A1=8C=E6=A6=9C</h3>
+<div class=3D"RecentComment">
+=09
+			<ul style=3D"word-break:break-all">
+	=09
+			<li>
+				<a id=3D"SingleColumn1__7c0219_TopList_ctl01_Hyperlink1" href=3D"http:/=
+/www.blogjava.net/paulwong/archive/2012/10/16/389625.html">1.&nbsp;SPRING I=
+NTEGRATION + SPRING BATCH(7)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__7c0219_TopList_ctl02_Hyperlink1" href=3D"http:/=
+/www.blogjava.net/paulwong/archive/2009/09/07/294114.html">2.&nbsp;jbpm4=E6=
+=95=B4=E5=90=88struts2+spring2.5+hibernate3.3(7)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__7c0219_TopList_ctl03_Hyperlink1" href=3D"http:/=
+/www.blogjava.net/paulwong/archive/2009/10/20/299115.html">3.&nbsp;cas=E5=
+=8D=95=E7=82=B9=E7=99=BB=E5=BD=95=E9=85=8D=E7=BD=AE=E9=80=9F=E6=88=90 (6)</=
+a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__7c0219_TopList_ctl04_Hyperlink1" href=3D"http:/=
+/www.blogjava.net/paulwong/archive/2012/03/19/372220.html">4.&nbsp;=E5=9F=
+=BA=E4=BA=8E=E6=B3=A8=E8=A7=A3=E7=9A=84SpringMVC+freemarker=E7=8E=AF=E5=A2=
+=83=E6=90=AD=E5=BB=BA(3)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__7c0219_TopList_ctl05_Hyperlink1" href=3D"http:/=
+/www.blogjava.net/paulwong/archive/2012/03/19/372161.html">5.&nbsp;activiti=
+5.6=E5=AE=89=E8=A3=85=E5=AE=9E=E6=88=98(3)</a>
+			</li>
+	=09
+			</ul>
+	=09
+</div>
+
+<h3>60=E5=A4=A9=E5=86=85=E9=98=85=E8=AF=BB=E6=8E=92=E8=A1=8C</h3>
+<div class=3D"RecentComment">
+=09
+			<ul>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__128b224_TopList_ctl01_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2015/04/30/424783.html">1.&nbsp;Spring=
+=E9=9D=A2=E8=AF=95=E9=97=AE=E7=AD=94Top 25(116)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__128b224_TopList_ctl02_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2015/05/14/425064.html">2.&nbsp;JVM=E7=
+=9B=91=E6=8E=A7=E4=B8=8E=E8=B0=83=E4=BC=98(91)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__128b224_TopList_ctl03_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2015/04/13/424366.html">3.&nbsp;=E5=88=
+=86=E5=B8=83=E5=BC=8F=E9=85=8D=E7=BD=AE=E7=AE=A1=E7=90=86=E5=B9=B3=E5=8F=B0=
+Disconf(83)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__128b224_TopList_ctl04_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2015/04/22/424600.html">4.&nbsp;=E8=BD=
+=BB=E9=87=8F=E7=BA=A7=E3=80=81=E9=AB=98=E6=80=A7=E8=83=BDNIO=E7=BD=91=E7=BB=
+=9C=E9=80=9A=E8=AE=AF=E6=A1=86=E6=9E=B6=EF=BC=88around 60K=EF=BC=89-zbus(74=
+)</a>
+			</li>
+	=09
+			<li>
+				<a id=3D"SingleColumn1__128b224_TopList_ctl05_Hyperlink1" href=3D"http:=
+//www.blogjava.net/paulwong/archive/2015/05/14/425082.html">5.&nbsp;=E6=8C=
+=81=E7=BB=AD=E9=83=A8=E7=BD=B2=EF=BC=8C=E5=B9=B6=E4=B8=8D=E7=AE=80=E5=8D=95=
+=EF=BC=81(73)</a>
+			</li>
+	=09
+			</ul>
+	=09
+</div>
+
+</div>
+<div id=3D"main">
+=09
+				=09
+	<div class=3D"post">
+		<h2>
+			<a id=3D"viewpost1_TitleUrl" href=3D"http://www.blogjava.net/paulwong/ar=
+chive/2012/01/28/368930.html">=E5=AE=89=E5=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=
+=E6=9E=B6-Apache Shiro=E7=A0=94=E7=A9=B6=E5=BF=83=E5=BE=97</a>
+		</h2>
+		=E6=9C=80=E8=BF=91=E5=9B=A0=E4=B8=BA=E9=A1=B9=E7=9B=AE=E9=9C=80=E8=A6=81=
+=EF=BC=8C=E7=A0=94=E7=A9=B6=E4=BA=86=E4=B8=80=E4=B8=8BApache Shiro=E5=AE=89=
+=E5=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6=EF=BC=8C=E6=8A=8A=E5=BF=83=E5=
+=BE=97=E8=AE=B0=E5=BD=95=E4=B8=8B=E6=9D=A5=E3=80=82=EF=BC=88=E5=8E=9F=E5=88=
+=9Bby=EF=BC=9A=E8=A5=BF=E9=A3=8E=E5=90=B9=E9=9B=A8=EF=BC=89 <br><wbr><br><w=
+br><wbr><wbr><wbr>Apache Shrio=E6=98=AF=E4=B8=80=E4=B8=AA=E5=AE=89=E5=85=A8=
+=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6=EF=BC=8C=E5=92=8CSpring Security=E7=9B=
+=B8=E6=AF=94=EF=BC=8C=E5=9C=A8=E4=BA=8E=E4=BB=96=E4=BD=BF=E7=94=A8=E4=BA=86=
+=E5=92=8C=E6=AF=94=E8=BE=83=E7=AE=80=E6=B4=81=E6=98=93=E6=87=82=E7=9A=84=E8=
+=AE=A4=E8=AF=81=E5=92=8C=E6=8E=88=E6=9D=83=E6=96=B9=E5=BC=8F=E3=80=82=E5=85=
+=B6=E6=8F=90=E4=BE=9B=E7=9A=84native-session=EF=BC=88=E5=8D=B3=E6=8A=8A=E7=
+=94=A8=E6=88=B7=E8=AE=A4=E8=AF=81=E5=90=8E=E7=9A=84=E6=8E=88=E6=9D=83=E4=BF=
+=A1=E6=81=AF=E4=BF=9D=E5=AD=98=E5=9C=A8=E5=85=B6=E8=87=AA=E8=BA=AB=E6=8F=90=
+=E4=BE=9BSession=E4=B8=AD=EF=BC=89=E6=9C=BA=E5=88=B6=EF=BC=8C=E8=BF=99=E6=
+=A0=B7=E5=B0=B1=E5=8F=AF=E4=BB=A5=E5=92=8CHttpSession=E3=80=81EJB Session B=
+ean=E7=9A=84=E5=9F=BA=E4=BA=8E=E5=AE=B9=E5=99=A8=E7=9A=84Session=E8=84=B1=
+=E8=80=A6=EF=BC=8C=E5=88=B0=E5=88=B0=E5=92=8C=E5=AE=A2=E6=88=B7=E7=AB=AF=E5=
+=BA=94=E7=94=A8=E3=80=81Flex=E5=BA=94=E7=94=A8=E3=80=81=E8=BF=9C=E7=A8=8B=
+=E6=96=B9=E6=B3=95=E8=B0=83=E7=94=A8=E7=AD=89=E9=83=BD=E5=8F=AF=E4=BB=A5=E4=
+=BD=BF=E7=94=A8=E5=AE=83=E6=9D=A5=E9=85=8D=E7=BD=AE=E6=9D=83=E9=99=90=E8=AE=
+=A4=E8=AF=81=E3=80=82 <br><br><wbr><strong><strong></strong><wbr>1=E3=80=81=
+sessionMode</strong> <br><wbr><wbr><wbr>=E5=9C=A8=E6=99=AE=E9=80=9A=E7=9A=
+=84WEB=E9=A1=B9=E7=9B=AE=E4=B8=AD=EF=BC=8C=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=
+=A5=E9=80=89=E6=8B=A9=E4=BD=BF=E7=94=A8native session=E6=88=96=E8=80=85=E6=
+=98=AFHttpSession=EF=BC=8C=E9=80=9A=E8=BF=87=E8=AE=BE=E7=BD=AEsecurityManag=
+er=E7=9A=84sessionMode=E5=8F=82=E6=95=B0=E4=B8=BAhttp=E6=88=96native=E5=8D=
+=B3=E5=8F=AF=E3=80=82 <br><br><wbr><strong>2=E3=80=81realm<br></strong><wbr=
+><wbr><wbr>=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E5=9F=BA=E4=BA=8Ejdbc=EF=BC=
+=8Cldap=EF=BC=8Ctext=EF=BC=8CactiveDirectory=EF=BC=8Cjndi=E7=AD=89=E5=A4=9A=
+=E7=A7=8D=E6=96=B9=E5=BC=8F=E6=9D=A5=E8=8E=B7=E5=8F=96=E7=94=A8=E6=88=B7=E5=
+=9F=BA=E6=9C=AC=E4=BF=A1=E6=81=AF=EF=BC=8C=E8=A7=92=E8=89=B2=E4=BF=A1=E6=81=
+=AF=EF=BC=8C=E6=9D=83=E9=99=90=E4=BF=A1=E6=81=AF=E7=AD=89=E3=80=82=E5=8F=AA=
+=E9=9C=80=E8=A6=81=E5=9C=A8securityManager=E4=B8=AD=E6=8C=87=E5=AE=9A=E4=BD=
+=BF=E7=94=A8=E7=9B=B8=E5=BA=94=E7=9A=84realm=E5=AE=9E=E7=8E=B0=E5=8D=B3=E5=
+=8F=AF=EF=BC=8C=E5=85=B6=E5=9C=A8=E8=BF=99=E5=90=84=E6=96=B9=E9=9D=A2=E9=83=
+=BD=E6=8F=90=E4=BE=9B=E4=BA=86=E5=AF=B9=E5=BA=94=E7=9A=84=E7=BC=BA=E7=9C=81=
+=E5=AE=9E=E7=8E=B0=EF=BC=8C=E6=AF=94=E5=A6=82=E6=88=91=E4=BB=AC=E5=B8=B8=E7=
+=94=A8=E7=9A=84=E5=9F=BA=E4=BA=8E=E6=95=B0=E6=8D=AE=E5=BA=93=E8=A1=A8=E7=9A=
+=84=E5=BD=A2=E5=BC=8F=E6=9D=A5=E9=85=8D=E7=BD=AE=E7=94=A8=E6=88=B7=E6=9D=83=
+=E9=99=90=E4=BF=A1=E6=81=AF=EF=BC=8C=E5=B0=B1=E5=8F=AF=E4=BB=A5=E4=BD=BF=E7=
+=94=A8=E5=85=B6=E7=BC=BA=E7=9C=81=E5=AE=9E=E7=8E=B0=E7=9A=84jdbcRealm=EF=BC=
+=88org.apache.shiro.realm.jdbc.JdbcRealm=EF=BC=89=E3=80=82<br><br>=E5=BD=93=
+=E7=84=B6=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=AE=A4=E8=AF=81=E4=BF=A1=E6=81=AF=E6=
+=9D=A5=E8=87=AA=E4=BA=8E=E5=A4=9A=E6=96=B9=E9=9D=A2=EF=BC=8C=E5=A4=9A=E4=B8=
+=AA=E4=B8=8D=E5=90=8C=E7=9A=84=E6=9D=A5=E6=BA=90=EF=BC=88=E6=AF=94=E5=A6=82=
+=E6=9D=A5=E8=87=AA=E4=B8=A4=E4=B8=AA=E5=BA=93=E4=B8=AD=EF=BC=8C=E6=88=96=E8=
+=80=85=E4=B8=80=E4=B8=AA=E6=95=B0=E6=8D=AE=E5=BA=93=EF=BC=8C=E4=B8=80=E4=B8=
+=AA=E6=98=AFldap=EF=BC=8C=E5=86=8D=E9=85=8D=E4=B8=8A=E4=B8=80=E4=B8=AA=E7=
+=BC=BA=E7=9C=81=E7=9A=84=E5=9F=BA=E4=BA=8E=E6=96=87=E6=9C=AC=E7=9A=84=E6=B5=
+=8B=E8=AF=95=E7=94=A8=E7=AD=89=E7=AD=89=EF=BC=89=EF=BC=8C=E6=88=91=E4=BB=AC=
+=E5=8F=AF=E4=BB=A5=E4=B8=BAsecurityManager=E6=8C=87=E5=AE=9Arealms=E5=8F=82=
+=E6=95=B0=EF=BC=8C=E5=8D=B3=E6=8A=8A=E8=BF=99=E4=B8=80=E7=BB=84=E5=AE=89=E5=
+=85=A8=E9=85=8D=E7=BD=AE=E9=83=BD=E9=85=8D=E7=BD=AE=E4=B8=8A=E3=80=82=E5=90=
+=84=E4=B8=AA=E5=85=B7=E4=BD=93=E7=9A=84realm=E5=AE=9E=E7=8E=B0=E6=8F=90=E4=
+=BE=9B=E4=BA=86=E6=96=B9=E6=B3=95=E6=9D=A5=E8=8E=B7=E5=8F=96=E7=94=A8=E6=88=
+=B7=E5=9F=BA=E6=9C=AC=E4=BF=A1=E6=81=AF=E3=80=81=E8=A7=92=E8=89=B2=E3=80=81=
+=E6=9D=83=E9=99=90=E7=AD=89=E3=80=82 <wbr><wbr><wbr>realm=E7=9A=84=E6=8E=88=
+=E6=9D=83=E4=BF=A1=E6=81=AF=E5=8F=AF=E4=BB=A5=E5=AD=98=E6=94=BE=E5=9C=A8Cac=
+he=E4=B8=AD=EF=BC=8CCache=E7=9A=84=E5=90=8D=E7=A7=B0=E5=8F=AF=E4=BB=A5=E9=
+=80=9A=E8=BF=87=E8=AE=BE=E7=BD=AE=E5=85=B6authorizationCacheName=E5=8F=82=
+=E6=95=B0=E6=8C=87=E5=AE=9A=E3=80=82 <br><br><strong>3=E3=80=81=E7=BC=93=E5=
+=AD=98</strong> <br><wbr><wbr><wbr><wbr><wbr>=E7=9B=AE=E5=89=8DShrio=E7=BC=
+=BA=E7=9C=81=E6=8F=90=E4=BE=9B=E4=BA=86=E5=9F=BA=E4=BA=8EehCache=E6=9D=A5=
+=E7=BC=93=E5=AD=98=E7=94=A8=E6=88=B7=E8=AE=A4=E8=AF=81=E4=BF=A1=E6=81=AF=E5=
+=92=8C=E6=8E=88=E6=9D=83=E4=BF=A1=E6=81=AF=E7=9A=84=E5=AE=9E=E7=8E=B0=E3=80=
+=82=E5=8F=AA=E9=9C=80=E8=A6=81=E9=85=8D=E7=BD=AE org.apache.shiro.web.mgt.D=
+efaultWebSecurityManage<wbr>r =E8=BF=99=E4=B8=AA cacheManager=E5=B9=B6=E8=
+=AE=BE=E7=BD=AE=E7=BB=99SecurityManager=E5=8D=B3=E5=8F=AF=E3=80=82<br><br>=
+=E5=A6=82=E6=9E=9C=E9=A1=B9=E7=9B=AE=E4=B8=AD=E5=B7=B2=E7=BB=8F=E5=AD=98=E5=
+=9C=A8=E4=BD=BF=E7=94=A8=E7=9A=84ehCacheManager=E9=85=8D=E7=BD=AE=EF=BC=88o=
+rg.springframework.cache.ehcache.EhCacheManagerFactoryBea<wbr>n=EF=BC=89=EF=
+=BC=8CDefaultWebSecurityManage<wbr>r=E5=88=99=E5=8F=AF=E4=BB=A5=E6=8C=87=E5=
+=AE=9A=E4=BD=BF=E7=94=A8=E7=8E=B0=E6=9C=89=E7=9A=84ehCacheManager=EF=BC=8C=
+=E5=A6=82=E6=9E=9C=E4=B8=8D=E6=8C=87=E5=AE=9A=EF=BC=8C=E5=AE=83=E5=B0=86=E8=
+=87=AA=E8=A1=8C=E4=BD=BF=E7=94=A8=E7=BC=BA=E7=9C=81=E9=85=8D=E7=BD=AE=E5=88=
+=9B=E5=BB=BA=E4=B8=80=E4=B8=AA=E3=80=82<br><br>=E5=90=8C=E6=97=B6=EF=BC=8C=
+=E4=B9=9F=E5=8F=AF=E4=BB=A5=E8=AE=BE=E7=BD=AEcacheManagerConfigFile=E5=8F=
+=82=E6=95=B0=E6=9D=A5=E6=8C=87=E5=AE=9AehCache=E7=9A=84=E9=85=8D=E7=BD=AE=
+=E6=96=87=E4=BB=B6=E3=80=82 <wbr>=E4=B8=8B=E4=BE=8B=E4=B8=AD=E7=9A=84shiro.=
+authorizationCache=E6=98=AF=E7=94=A8=E6=9D=A5=E5=AD=98=E6=94=BE=E6=8E=88=E6=
+=9D=83=E4=BF=A1=E6=81=AF=E7=9A=84Cache=EF=BC=8C=E6=88=91=E4=BB=AC=E5=9C=A8=
+=E9=85=8D=E7=BD=AErealm=EF=BC=88=E5=A6=82myRealm=E6=88=96jdbcReaml=EF=BC=89=
+=E6=97=B6=EF=BC=8C=E6=8A=8AauthorizationCacheName=E5=B1=9E=E6=80=A7=E8=AE=
+=BE=E7=BD=AEshiro.authorizationCache=E6=9D=A5=E5=AF=B9=E5=BA=94=E3=80=82 <b=
+r><br><wbr>ehcache.xml <wbr>&nbsp;=20
+<div style=3D"border-bottom: #cccccc 1px solid; border-left: #cccccc 1px so=
+lid; padding-bottom: 4px; background-color: #eeeeee; padding-left: 4px; wid=
+th: 98%; padding-right: 5px; font-size: 13px; word-break: break-all; border=
+-top: #cccccc 1px solid; border-right: #cccccc 1px solid; padding-top: 4px"=
+><!--<br />
+<br />
+Code highlighting produced by Actipro CodeHighlighter (freeware)<br />
+http://www.CodeHighlighter.com/<br />
+<br />
+--><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlin=
+ingIndicators/None.gif"><span style=3D"color: #0000ff">&lt;</span><span sty=
+le=3D"color: #800000">ehcache</span><span style=3D"color: #0000ff">&gt;</sp=
+an><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"ht=
+tp://www.blogjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"=
+" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/N=
+one.gif"></span><span style=3D"color: #0000ff">&lt;</span><span style=3D"co=
+lor: #800000">diskStore&nbsp;</span><span style=3D"color: #ff0000">path</sp=
+an><span style=3D"color: #0000ff">=3D"java.io.tmpdir/tuan-oauth"</span><spa=
+n style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000000"><br><=
+img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningI=
+ndicators/None.gif"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogj=
+ava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=3D"top=
+" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"><br><=
+img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningI=
+ndicators/None.gif"></span><span style=3D"color: #0000ff">&lt;</span><span =
+style=3D"color: #800000">defaultCache<br><img alt=3D"" align=3D"top" src=3D=
+"http://www.blogjava.net/Images/OutliningIndicators/None.gif"></span><span =
+style=3D"color: #ff0000">maxElementsInMemory</span><span style=3D"color: #0=
+000ff">=3D"10000"</span><span style=3D"color: #ff0000"><br><img alt=3D"" al=
+ign=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.=
+gif">eternal</span><span style=3D"color: #0000ff">=3D"false"</span><span st=
+yle=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.bl=
+ogjava.net/Images/OutliningIndicators/None.gif">timeToIdleSeconds</span><sp=
+an style=3D"color: #0000ff">=3D"120"</span><span style=3D"color: #ff0000"><=
+br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlin=
+ingIndicators/None.gif">timeToLiveSeconds</span><span style=3D"color: #0000=
+ff">=3D"120"</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=
+=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif=
+">overflowToDisk</span><span style=3D"color: #0000ff">=3D"false"</span><spa=
+n style=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" src=3D"http://ww=
+w.blogjava.net/Images/OutliningIndicators/None.gif">diskPersistent</span><s=
+pan style=3D"color: #0000ff">=3D"false"</span><span style=3D"color: #ff0000=
+"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Out=
+liningIndicators/None.gif">diskExpiryThreadIntervalSeconds</span><span styl=
+e=3D"color: #0000ff">=3D"120"</span><span style=3D"color: #ff0000"><br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif"></span><span style=3D"color: #0000ff">/&gt;</span><span st=
+yle=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.bl=
+ogjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=3D"=
+top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"></=
+span><span style=3D"color: #008000">&lt;!--</span><span style=3D"color: #00=
+8000">&nbsp;We&nbsp;want&nbsp;eternal=3D"true"&nbsp;(with&nbsp;no&nbsp;time=
+ToIdle&nbsp;or&nbsp;timeToLive&nbsp;settings)&nbsp;because&nbsp;Shiro&nbsp;=
+manages&nbsp;session<br><img alt=3D"" align=3D"top" src=3D"http://www.blogj=
+ava.net/Images/OutliningIndicators/None.gif">expirations&nbsp;explicitly.&n=
+bsp;If&nbsp;we&nbsp;set&nbsp;it&nbsp;to&nbsp;false&nbsp;and&nbsp;then&nbsp;=
+set&nbsp;corresponding&nbsp;timeToIdle&nbsp;and&nbsp;timeToLive&nbsp;proper=
+ties,<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/=
+OutliningIndicators/None.gif">ehcache&nbsp;would&nbsp;evict&nbsp;sessions&n=
+bsp;without&nbsp;Shiro's&nbsp;knowledge,&nbsp;which&nbsp;would&nbsp;cause&n=
+bsp;many&nbsp;problems<br><img alt=3D"" align=3D"top" src=3D"http://www.blo=
+gjava.net/Images/OutliningIndicators/None.gif">(e.g.&nbsp;"My&nbsp;Shiro&nb=
+sp;session&nbsp;timeout&nbsp;is&nbsp;30&nbsp;minutes&nbsp;-&nbsp;why&nbsp;i=
+sn't&nbsp;a&nbsp;session&nbsp;available&nbsp;after&nbsp;2&nbsp;minutes?"<br=
+><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlinin=
+gIndicators/None.gif">Answer&nbsp;-&nbsp;ehcache&nbsp;expired&nbsp;it&nbsp;=
+due&nbsp;to&nbsp;the&nbsp;timeToIdle&nbsp;property&nbsp;set&nbsp;to&nbsp;12=
+0&nbsp;seconds.)<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.=
+net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=3D"top" sr=
+c=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">diskPersi=
+stent=3Dtrue&nbsp;since&nbsp;we&nbsp;want&nbsp;an&nbsp;enterprise&nbsp;sess=
+ion&nbsp;management&nbsp;feature&nbsp;-&nbsp;ability&nbsp;to&nbsp;use&nbsp;=
+sessions&nbsp;after<br><img alt=3D"" align=3D"top" src=3D"http://www.blogja=
+va.net/Images/OutliningIndicators/None.gif">even&nbsp;after&nbsp;a&nbsp;JVM=
+&nbsp;restart.&nbsp;</span><span style=3D"color: #008000">--&gt;</span><spa=
+n style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://ww=
+w.blogjava.net/Images/OutliningIndicators/None.gif"></span><span style=3D"c=
+olor: #0000ff">&lt;</span><span style=3D"color: #800000">cache&nbsp;</span>=
+<span style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=
+=3D"shiro-activeSessionCache"</span><span style=3D"color: #ff0000"><br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif">maxElementsInMemory</span><span style=3D"color: #0000ff">=
+=3D"10000"</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=3D"=
+top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">et=
+ernal</span><span style=3D"color: #0000ff">=3D"true"</span><span style=3D"c=
+olor: #ff0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.n=
+et/Images/OutliningIndicators/None.gif">overflowToDisk</span><span style=3D=
+"color: #0000ff">=3D"true"</span><span style=3D"color: #ff0000"><br><img al=
+t=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicat=
+ors/None.gif">diskPersistent</span><span style=3D"color: #0000ff">=3D"true"=
+</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">diskExpiry=
+ThreadIntervalSeconds</span><span style=3D"color: #0000ff">=3D"600"</span><=
+span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000000"><b=
+r><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlini=
+ngIndicators/None.gif"><br><img alt=3D"" align=3D"top" src=3D"http://www.bl=
+ogjava.net/Images/OutliningIndicators/None.gif"></span><span style=3D"color=
+: #0000ff">&lt;</span><span style=3D"color: #800000">cache&nbsp;</span><spa=
+n style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=3D"sh=
+iro.authorizationCache"</span><span style=3D"color: #ff0000"><br><img alt=
+=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicato=
+rs/None.gif">maxElementsInMemory</span><span style=3D"color: #0000ff">=3D"1=
+00"</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" sr=
+c=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">eternal</=
+span><span style=3D"color: #0000ff">=3D"false"</span><span style=3D"color: =
+#ff0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Ima=
+ges/OutliningIndicators/None.gif">timeToLiveSeconds</span><span style=3D"co=
+lor: #0000ff">=3D"600"</span><span style=3D"color: #ff0000"><br><img alt=3D=
+"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/=
+None.gif">overflowToDisk</span><span style=3D"color: #0000ff">=3D"false"</s=
+pan><span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #00000=
+0"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Ou=
+tliningIndicators/None.gif"><br><img alt=3D"" align=3D"top" src=3D"http://w=
+ww.blogjava.net/Images/OutliningIndicators/None.gif"></span><span style=3D"=
+color: #0000ff">&lt;/</span><span style=3D"color: #800000">ehcache</span><s=
+pan style=3D"color: #0000ff">&gt;</span></div><br>=E5=BD=93=E6=88=91=E4=BB=
+=AC=E6=8A=8AsecurityManager=E7=9A=84sessionMode=E5=8F=82=E6=95=B0=E8=AE=BE=
+=E7=BD=AE=E4=B8=BAnative=E6=97=B6=EF=BC=8C=E9=82=A3=E4=B9=88shrio=E5=B0=B1=
+=E5=B0=86=E7=94=A8=E6=88=B7=E7=9A=84=E5=9F=BA=E6=9C=AC=E8=AE=A4=E8=AF=81=E4=
+=BF=A1=E6=81=AF=E4=BF=9D=E5=AD=98=E5=88=B0=E7=BC=BA=E7=9C=81=E5=90=8D=E7=A7=
+=B0=E4=B8=BAshiro-activeSessionCache =E7=9A=84Cache=E4=B8=AD <br><br>org.ap=
+ache.shiro.web.mgt.DefaultWebSecurityManage<wbr>r =E5=9C=A8sessionMode=E5=
+=8F=82=E6=95=B0=E8=AE=BE=E7=BD=AE=E4=B8=BAnative=E6=97=B6=EF=BC=8C=E7=BC=BA=
+=E7=9C=81=E4=BD=BF=E7=94=A8=E7=9A=84=E6=98=AFDefaultWebSessionManager<wbr>=
+=E6=9D=A5=E7=AE=A1=E7=90=86Session=EF=BC=8C=E8=AF=A5=E7=AE=A1=E7=90=86=E7=
+=B1=BB=E7=BC=BA=E7=9C=81=E4=BD=BF=E7=94=A8=E7=9A=84=E6=98=AF=E4=BD=BF=E7=94=
+=A8MemorySessionDAO=E5=9F=BA=E4=BA=8E=E5=86=85=E5=AD=98=E6=9D=A5=E4=BF=9D=
+=E5=AD=98=E5=92=8C=E6=93=8D=E4=BD=9C=E7=94=A8=E6=88=B7=E5=9F=BA=E6=9C=AC=E8=
+=AE=A4=E8=AF=81=E4=BF=A1=E6=81=AF=E3=80=82<br><br>=E5=A6=82=E6=9E=9C=E7=B3=
+=BB=E7=BB=9F=E5=86=85=E7=9A=84=E7=94=A8=E6=88=B7=E6=95=B0=E7=89=B9=E5=88=AB=
+=E5=A4=9A=EF=BC=8C=E6=88=91=E4=BB=AC=E9=9C=80=E8=A6=81=E4=BD=BF=E7=94=A8Cac=
+heSessionDao=E6=9D=A5=E5=9F=BA=E4=BA=8ECache=E8=BF=9B=E8=A1=8C=E6=93=8D=E4=
+=BD=9C=EF=BC=8C=E5=9B=A0=E6=AD=A4=EF=BC=8C=E8=BF=99=E9=87=8C=E9=9C=80=E8=A6=
+=81=E6=98=BE=E7=A4=BA=E9=85=8D=E7=BD=AE=E4=B8=80=E4=B8=AAsessionManager=EF=
+=BC=88org.apache.shiro.web.session.mgt.DefaultWebSessionManager<wbr>=EF=BC=
+=89,=E5=B9=B6=E9=85=8D=E7=BD=AE=E8=AF=A5sessionManager=E7=9A=84sessionDao=
+=E4=B8=BACacheSessionDao=EF=BC=88org.apache.shiro.session.mgt.eis.CachingSe=
+ssionDAO=EF=BC=8C=E9=9C=80=E7=94=A8=E5=85=B6=E5=AE=9E=E7=8E=B0=E7=B1=BBorg.=
+apache.shiro.session.mgt.eis.EnterpriseCacheSessionDA<wbr>O=EF=BC=89=E3=80=
+=82<br><br>=E9=85=8D=E7=BD=AECacheSessionDao=E6=97=B6=EF=BC=8C=E6=88=91=E4=
+=BB=AC=E5=8F=AF=E4=BB=A5=E6=8C=87=E5=AE=9A=E5=B1=9E=E6=80=A7activeSessionsC=
+acheName=E7=9A=84=E5=90=8D=E7=A7=B0=E6=9D=A5=E6=9B=BF=E6=8D=A2=E6=8E=89=E7=
+=BC=BA=E7=9C=81=E5=90=8D shiro-activeSessionCache=E3=80=82=E6=88=91=E4=BB=
+=AC=E5=86=8D=E6=8A=8A=E8=AF=A5sessionManager=E9=85=8D=E7=BD=AE=E7=BB=99Defa=
+ultWebSecurityManage<wbr>r=E5=B0=B1=E5=8F=AF=E4=BB=A5=E4=BA=86=E3=80=82 <br=
+><br><wbr><wbr><wbr><wbr>
+<div style=3D"border-bottom: #cccccc 1px solid; border-left: #cccccc 1px so=
+lid; padding-bottom: 4px; background-color: #eeeeee; padding-left: 4px; wid=
+th: 98%; padding-right: 5px; font-size: 13px; word-break: break-all; border=
+-top: #cccccc 1px solid; border-right: #cccccc 1px solid; padding-top: 4px"=
+><!--<br />
+<br />
+Code highlighting produced by Actipro CodeHighlighter (freeware)<br />
+http://www.CodeHighlighter.com/<br />
+<br />
+--><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlin=
+ingIndicators/None.gif"><span style=3D"color: #0000ff">&lt;</span><span sty=
+le=3D"color: #800000">bean&nbsp;</span><span style=3D"color: #ff0000">id</s=
+pan><span style=3D"color: #0000ff">=3D"securityManager"</span><span style=
+=3D"color: #ff0000">&nbsp;class</span><span style=3D"color: #0000ff">=3D"or=
+g.apache.shiro.web.mgt.DefaultWebSecurityManager"</span><span style=3D"colo=
+r: #0000ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" ali=
+gn=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.g=
+if">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</spa=
+n><span style=3D"color: #800000">property&nbsp;</span><span style=3D"color:=
+ #ff0000">name</span><span style=3D"color: #0000ff">=3D"cacheManager"</span=
+><span style=3D"color: #ff0000">&nbsp;ref</span><span style=3D"color: #0000=
+ff">=3D"cacheManager"</span><span style=3D"color: #ff0000">&nbsp;</span><sp=
+an style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000000"><br>=
+<img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlining=
+Indicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #=
+0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</span><spa=
+n style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=3D"se=
+ssionMode"</span><span style=3D"color: #ff0000">&nbsp;value</span><span sty=
+le=3D"color: #0000ff">=3D"native"</span><span style=3D"color: #ff0000">&nbs=
+p;</span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #=
+000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Imag=
+es/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=
+=3D"color: #008000">&lt;!--</span><span style=3D"color: #008000">&nbsp;Sing=
+le&nbsp;realm&nbsp;app.&nbsp;If&nbsp;you&nbsp;have&nbsp;multiple&nbsp;realm=
+s,&nbsp;use&nbsp;the&nbsp;'realms'&nbsp;property&nbsp;<br><img alt=3D"" ali=
+gn=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.g=
+if">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;instead.&nbsp;</span><s=
+pan style=3D"color: #008000">--&gt;</span><span style=3D"color: #000000"><b=
+r><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlini=
+ngIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color:=
+ #0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</span><s=
+pan style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=3D"=
+realm"</span><span style=3D"color: #ff0000">&nbsp;ref</span><span style=3D"=
+color: #0000ff">=3D"myRealm"</span><span style=3D"color: #ff0000">&nbsp;</s=
+pan><span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #00000=
+0"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Ou=
+tliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"c=
+olor: #0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</sp=
+an><span style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff"=
+>=3D"sessionManager"</span><span style=3D"color: #ff0000">&nbsp;ref</span><=
+span style=3D"color: #0000ff">=3D"sessionManager"</span><span style=3D"colo=
+r: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span><span s=
+tyle=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.b=
+logjava.net/Images/OutliningIndicators/None.gif"></span><span style=3D"colo=
+r: #0000ff">&lt;/</span><span style=3D"color: #800000">bean</span><span sty=
+le=3D"color: #0000ff">&gt;</span><span style=3D"color: #000000"><br><img al=
+t=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicat=
+ors/None.gif"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.ne=
+t/Images/OutliningIndicators/None.gif"></span><span style=3D"color: #0000ff=
+">&lt;</span><span style=3D"color: #800000">bean&nbsp;</span><span style=3D=
+"color: #ff0000">id</span><span style=3D"color: #0000ff">=3D"sessionManager=
+"</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbs=
+p;&nbsp;&nbsp;class</span><span style=3D"color: #0000ff">=3D"org.apache.shi=
+ro.web.session.mgt.DefaultWebSessionManager"</span><span style=3D"color: #0=
+000ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D=
+"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&=
+nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><sp=
+an style=3D"color: #800000">property&nbsp;</span><span style=3D"color: #ff0=
+000">name</span><span style=3D"color: #0000ff">=3D"sessionDAO"</span><span =
+style=3D"color: #ff0000">&nbsp;ref</span><span style=3D"color: #0000ff">=3D=
+"sessionDAO"</span><span style=3D"color: #ff0000">&nbsp;</span><span style=
+=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000000"><br><img alt=
+=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicato=
+rs/None.gif"></span><span style=3D"color: #0000ff">&lt;/</span><span style=
+=3D"color: #800000">bean</span><span style=3D"color: #0000ff">&gt;</span><s=
+pan style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://=
+www.blogjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" ali=
+gn=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.g=
+if"></span><span style=3D"color: #0000ff">&lt;</span><span style=3D"color: =
+#800000">bean&nbsp;</span><span style=3D"color: #ff0000">id</span><span sty=
+le=3D"color: #0000ff">=3D"sessionDAO"</span><span style=3D"color: #ff0000">=
+<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outli=
+ningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;class</span><span style=3D=
+"color: #0000ff">=3D"org.apache.shiro.session.mgt.eis.EnterpriseCacheSessio=
+nDAO"</span><span style=3D"color: #0000ff">&gt;</span><span style=3D"color:=
+ #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Im=
+ages/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span sty=
+le=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">property&nb=
+sp;</span><span style=3D"color: #ff0000">name</span><span style=3D"color: #=
+0000ff">=3D"activeSessionsCacheName"</span><span style=3D"color: #ff0000">&=
+nbsp;value</span><span style=3D"color: #0000ff">=3D"shiro-activeSessionCach=
+e"</span><span style=3D"color: #ff0000">&nbsp;</span><span style=3D"color: =
+#0000ff">/&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=
+=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif=
+"></span><span style=3D"color: #0000ff">&lt;/</span><span style=3D"color: #=
+800000">bean</span><span style=3D"color: #0000ff">&gt;</span></div>&nbsp; <=
+br><wbr>=E4=BB=8E=E4=BB=A5=E4=B8=8A=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E7=
+=9C=8B=E5=87=BA <br><wbr><wbr>a=E3=80=81=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=
+=A5=E6=8C=87=E5=AE=9AsessionManager=E7=9A=84sessionDao=EF=BC=8C=E5=9C=A8=E6=
+=9F=90=E4=BA=9B=E6=83=85=E5=86=B5=E4=B8=8B=EF=BC=8C=E6=88=91=E4=BB=AC=E4=B9=
+=9F=E5=8F=AF=E4=BB=A5=E9=80=9A=E8=BF=87=E5=AE=9E=E7=8E=B0=E8=87=AA=E5=AE=9A=
+=E4=B9=89=E7=9A=84sessionDao=E6=9D=A5=E6=8A=8A=E7=94=A8=E6=88=B7=E8=AE=A4=
+=E8=AF=81=E4=BF=A1=E6=81=AF=E4=BF=9D=E5=AD=98=E5=9C=A8memcache=EF=BC=8Cmong=
+odb=EF=BC=8Cldap=EF=BC=8Cdatabase=E4=B8=AD=EF=BC=8C=E8=BE=BE=E5=88=B0=E5=92=
+=8C=E5=85=B6=E4=BB=96=E5=BA=94=E7=94=A8=E5=85=B1=E4=BA=AB=E7=94=A8=E6=88=B7=
+=E8=AE=A4=E8=AF=81=E4=BF=A1=E6=81=AF=E7=9A=84=E7=9B=AE=E7=9A=84=EF=BC=8C=E4=
+=BB=A5=E6=AD=A4=E8=BE=BE=E5=88=B0SSO=E7=9A=84=E7=9B=AE=E7=9A=84=EF=BC=88=E5=
+=BD=93=E7=84=B6=EF=BC=8CsessionId=E5=BE=97=E4=B8=80=E8=87=B4=EF=BC=8C=E8=BF=
+=99=E4=B8=AA=E5=B1=9E=E4=BA=8E=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E5=9C=A8=
+=E5=BA=94=E7=94=A8=E5=95=86=E5=AE=9A=E6=80=8E=E4=B9=88=E8=AE=BE=E5=AE=9A=E4=
+=B8=80=E8=87=B4=E7=9A=84sessionId=E7=9A=84=E9=97=AE=E9=A2=98=EF=BC=89=E3=80=
+=82 <br><br><wbr><wbr>b=E3=80=81cacheManager=E6=88=91=E4=BB=AC=E4=B9=9F=E5=
+=8F=AF=E4=BB=A5=E8=87=AA=E5=B7=B1=E5=AE=9E=E7=8E=B0=E4=B8=80=E4=B8=AA=EF=BC=
+=8C=E5=8F=AF=E4=BB=A5=E6=A0=B9=E6=8D=AE=E5=BA=94=E7=94=A8=E6=83=85=E5=86=B5=
+=E6=9D=A5=E8=80=83=E8=99=91=EF=BC=8C=E6=AF=94=E5=A6=82=E5=AD=98=E6=94=BE=E5=
+=9C=A8memcache=E4=B8=AD=E4=B9=8B=E7=B1=BB=E3=80=82 <br><br><wbr><wbr><stron=
+g>4=E3=80=81=E9=85=8D=E7=BD=AE</strong> <br><wbr><wbr><wbr>Web=E9=A1=B9=E7=
+=9B=AE=E4=B8=AD=EF=BC=8C=E6=99=AE=E9=80=9A=E7=9A=84web=E9=A1=B9=E7=9B=AE=E5=
+=8F=AF=E4=BB=A5=E9=87=87=E7=94=A8ini=E6=96=87=E4=BB=B6=E6=9D=A5=E5=AF=B9shi=
+ro=E8=BF=9B=E8=A1=8C=E9=85=8D=E7=BD=AE=E3=80=82=E5=9F=BA=E4=BA=8Espring=E7=
+=9A=84=E9=A1=B9=E7=9B=AE=E5=8F=AF=E4=BB=A5=E9=87=87=E7=94=A8=E5=92=8CSpring=
+=E9=9B=86=E6=88=90=E7=9A=84=E6=96=B9=E5=BC=8F=E9=85=8D=E7=BD=AE=E3=80=82 <w=
+br>=E5=9F=BA=E4=BA=8ESpring=E9=9B=86=E6=88=90=E7=9A=84Web=E9=A1=B9=E7=9B=AE=
+=E7=9A=84=E5=9F=BA=E6=9C=AC=E9=85=8D=E7=BD=AE=E6=96=87=E4=BB=B6=E5=A6=82=E4=
+=B8=8B=EF=BC=9A&nbsp;<br>&nbsp;=20
+<div style=3D"border-bottom: #cccccc 1px solid; border-left: #cccccc 1px so=
+lid; padding-bottom: 4px; background-color: #eeeeee; padding-left: 4px; wid=
+th: 98%; padding-right: 5px; font-size: 13px; word-break: break-all; border=
+-top: #cccccc 1px solid; border-right: #cccccc 1px solid; padding-top: 4px"=
+><!--<br />
+<br />
+Code highlighting produced by Actipro CodeHighlighter (freeware)<br />
+http://www.CodeHighlighter.com/<br />
+<br />
+--><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlin=
+ingIndicators/None.gif"><span style=3D"color: #0000ff">&lt;?</span><span st=
+yle=3D"color: #ff00ff">xml&nbsp;version=3D"1.0"&nbsp;encoding=3D"UTF-8"</sp=
+an><span style=3D"color: #0000ff">?&gt;</span><span style=3D"color: #000000=
+"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Out=
+liningIndicators/None.gif"></span><span style=3D"color: #0000ff">&lt;</span=
+><span style=3D"color: #800000">beans&nbsp;</span><span style=3D"color: #ff=
+0000">xmlns</span><span style=3D"color: #0000ff">=3D"http://www.springframe=
+work.org/schema/beans"</span><span style=3D"color: #ff0000"><br><img alt=3D=
+"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/=
+None.gif">&nbsp;&nbsp;&nbsp;&nbsp;xmlns:context</span><span style=3D"color:=
+ #0000ff">=3D"http://www.springframework.org/schema/context"</span><span st=
+yle=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.bl=
+ogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;xml=
+ns:xsi</span><span style=3D"color: #0000ff">=3D"http://www.w3.org/2001/XMLS=
+chema-instance"</span><span style=3D"color: #ff0000">&nbsp;xmlns:util</span=
+><span style=3D"color: #0000ff">=3D"http://www.springframework.org/schema/u=
+til"</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=3D"top" s=
+rc=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&n=
+bsp;&nbsp;&nbsp;xsi:schemaLocation</span><span style=3D"color: #0000ff">=3D=
+"http://www.springframework.org/schema/beans&nbsp;http://www.springframewor=
+k.org/schema/beans/spring-beans-3.0.xsd<br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">http://www=
+.springframework.org/schema/context&nbsp;http://www.springframework.org/sch=
+ema/context/spring-context-3.0.xsd<br><img alt=3D"" align=3D"top" src=3D"ht=
+tp://www.blogjava.net/Images/OutliningIndicators/None.gif">http://www.sprin=
+gframework.org/schema/util&nbsp;http://www.springframework.org/schema/util/=
+spring-util-3.0.xsd"</span><span style=3D"color: #0000ff">&gt;</span><span =
+style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.=
+blogjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=
+=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif=
+">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #008000">&lt;!--</sp=
+an><span style=3D"color: #008000">&nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D&nbsp;Shiro&=
+nbsp;Core&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.n=
+et/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;Components&nbsp;-&nbsp;Not&nbsp;Spring&nbsp;Specific&nbsp;=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D&nbsp;</span><span style=3D"color: #008000">--&gt;</span>=
+<span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http:=
+//www.blogjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" a=
+lign=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None=
+.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #008000">&lt;!--=
+</span><span style=3D"color: #008000">&nbsp;Shiro's&nbsp;main&nbsp;business=
+-tier&nbsp;object&nbsp;for&nbsp;web-enabled&nbsp;applications&nbsp;(use&nbs=
+p;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Out=
+liningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+DefaultSecurityManager&nbsp;instead&nbsp;when&nbsp;there&nbsp;is&nbsp;no&nb=
+sp;web&nbsp;environment)&nbsp;</span><span style=3D"color: #008000">--&gt;<=
+/span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D=
+"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&=
+nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><span style=3D"=
+color: #800000">bean&nbsp;</span><span style=3D"color: #ff0000">id</span><s=
+pan style=3D"color: #0000ff">=3D"securityManager"</span><span style=3D"colo=
+r: #ff0000">&nbsp;class</span><span style=3D"color: #0000ff">=3D"org.apache=
+.shiro.web.mgt.DefaultWebSecurityManager"</span><span style=3D"color: #0000=
+ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"to=
+p" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0=
+000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</span><span=
+ style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=3D"cac=
+heManager"</span><span style=3D"color: #ff0000">&nbsp;ref</span><span style=
+=3D"color: #0000ff">=3D"cacheManager"</span><span style=3D"color: #ff0000">=
+&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"colo=
+r: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/=
+Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</span><span style=3D"color: #008000">&lt;!--</span><span style=
+=3D"color: #008000">&nbsp;Single&nbsp;realm&nbsp;app.&nbsp;If&nbsp;you&nbsp=
+;have&nbsp;multiple&nbsp;realms,&nbsp;use&nbsp;the&nbsp;'realms'&nbsp;prope=
+rty&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Ima=
+ges/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;instead.&nbsp;</span><span style=3D"color: #=
+008000">--&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=
+=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif=
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"col=
+or: #0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</span=
+><span style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=
+=3D"sessionMode"</span><span style=3D"color: #ff0000">&nbsp;value</span><sp=
+an style=3D"color: #0000ff">=3D"native"</span><span style=3D"color: #ff0000=
+">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"co=
+lor: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.ne=
+t/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><span style=3D=
+"color: #800000">property&nbsp;</span><span style=3D"color: #ff0000">name</=
+span><span style=3D"color: #0000ff">=3D"realm"</span><span style=3D"color: =
+#ff0000">&nbsp;ref</span><span style=3D"color: #0000ff">=3D"myRealm"</span>=
+<span style=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">=
+/&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" =
+src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&=
+nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/</span><span st=
+yle=3D"color: #800000">bean</span><span style=3D"color: #0000ff">&gt;</span=
+><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http=
+://www.blogjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" =
+align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/Non=
+e.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #008000">&lt;!-=
+-</span><span style=3D"color: #008000">&nbsp;Let's&nbsp;use&nbsp;some&nbsp;=
+enterprise&nbsp;caching&nbsp;support&nbsp;for&nbsp;better&nbsp;performance.=
+&nbsp;You&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.n=
+et/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;can&nbsp;replace&nbsp;this&nbsp;with&nbsp;any&nbsp;enterprise&=
+nbsp;caching&nbsp;framework&nbsp;implementation&nbsp;that&nbsp;<br><img alt=
+=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicato=
+rs/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you&nbsp;like&=
+nbsp;(Terracotta+Ehcache,&nbsp;Coherence,&nbsp;GigaSpaces,&nbsp;etc&nbsp;</=
+span><span style=3D"color: #008000">--&gt;</span><span style=3D"color: #000=
+000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/=
+OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D=
+"color: #0000ff">&lt;</span><span style=3D"color: #800000">bean&nbsp;</span=
+><span style=3D"color: #ff0000">id</span><span style=3D"color: #0000ff">=3D=
+"cacheManager"</span><span style=3D"color: #ff0000">&nbsp;class</span><span=
+ style=3D"color: #0000ff">=3D"org.apache.shiro.cache.ehcache.EhCacheManager=
+"</span><span style=3D"color: #0000ff">&gt;</span><span style=3D"color: #00=
+0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images=
+/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;</span><span style=3D"color: #008000">&lt;!--</span><span style=3D"colo=
+r: #008000">&nbsp;Set&nbsp;a&nbsp;net.sf.ehcache.CacheManager&nbsp;instance=
+&nbsp;here&nbsp;if&nbsp;you&nbsp;already&nbsp;have&nbsp;<br><img alt=3D"" a=
+lign=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None=
+.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;one.&nbsp;If&nbsp;not,&nbsp;a&nbsp;new&nbsp;one&nbsp;will&nbsp;be&nbsp;c=
+reaed&nbsp;with&nbsp;a&nbsp;default&nbsp;config:&nbsp;</span><span style=3D=
+"color: #008000">--&gt;</span><span style=3D"color: #000000"><br><img alt=
+=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicato=
+rs/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span s=
+tyle=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">property&=
+nbsp;</span><span style=3D"color: #ff0000">name</span><span style=3D"color:=
+ #0000ff">=3D"cacheManager"</span><span style=3D"color: #ff0000">&nbsp;ref<=
+/span><span style=3D"color: #0000ff">=3D"ehCacheManager"</span><span style=
+=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span=
+><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http=
+://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #008000">&lt;!--=
+</span><span style=3D"color: #008000">&nbsp;If&nbsp;you&nbsp;don't&nbsp;hav=
+e&nbsp;a&nbsp;pre-built&nbsp;net.sf.ehcache.CacheManager&nbsp;instance&nbsp=
+;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outl=
+iningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;to&nbsp;inject,&nbsp;but&nbsp;you&nbsp;want&nbsp;a&n=
+bsp;specific&nbsp;Ehcache&nbsp;configuration&nbsp;to&nbsp;be&nbsp;used,&nbs=
+p;specify&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.n=
+et/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that&nbsp;here.&nbsp;If&nbsp;you&nbsp;=
+don't,&nbsp;a&nbsp;default&nbsp;will&nbsp;be&nbsp;used.:&nbsp;&lt;property&=
+nbsp;name=3D"cacheManagerConfigFile"&nbsp;<br><img alt=3D"" align=3D"top" s=
+rc=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;value=3D"cl=
+asspath:some/path/to/ehcache.xml"/&gt;&nbsp;</span><span style=3D"color: #0=
+08000">--&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=
+=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif=
+">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/</span=
+><span style=3D"color: #800000">bean</span><span style=3D"color: #0000ff">&=
+gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" sr=
+c=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"><br><img =
+alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndic=
+ators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #00800=
+0">&lt;!--</span><span style=3D"color: #008000">&nbsp;Used&nbsp;by&nbsp;the=
+&nbsp;SecurityManager&nbsp;to&nbsp;access&nbsp;security&nbsp;data&nbsp;(use=
+rs,&nbsp;roles,&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blog=
+java.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;etc).&nbsp;Many&nbsp;other&nbsp;realm&nbsp;implementatio=
+ns&nbsp;can&nbsp;be&nbsp;used&nbsp;too&nbsp;(PropertiesRealm,&nbsp;<br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LdapRealm,=
+&nbsp;etc.&nbsp;</span><span style=3D"color: #008000">--&gt;</span><span st=
+yle=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.bl=
+ogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</s=
+pan><span style=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000=
+">bean&nbsp;</span><span style=3D"color: #ff0000">id</span><span style=3D"c=
+olor: #0000ff">=3D"jdbcRealm"</span><span style=3D"color: #ff0000">&nbsp;cl=
+ass</span><span style=3D"color: #0000ff">=3D"org.apache.shiro.realm.jdbc.Jd=
+bcRealm"</span><span style=3D"color: #0000ff">&gt;</span><span style=3D"col=
+or: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net=
+/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><span style=3D"=
+color: #800000">property&nbsp;</span><span style=3D"color: #ff0000">name</s=
+pan><span style=3D"color: #0000ff">=3D"name"</span><span style=3D"color: #f=
+f0000">&nbsp;value</span><span style=3D"color: #0000ff">=3D"jdbcRealm"</spa=
+n><span style=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff=
+">/&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top=
+" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #00=
+00ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</span><span =
+style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=3D"data=
+Source"</span><span style=3D"color: #ff0000">&nbsp;ref</span><span style=3D=
+"color: #0000ff">=3D"dataSource"</span><span style=3D"color: #ff0000">&nbsp=
+;</span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #0=
+00000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Image=
+s/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</span><span style=3D"color: #0000ff">&lt;</span><span style=3D"color:=
+ #800000">property&nbsp;</span><span style=3D"color: #ff0000">name</span><s=
+pan style=3D"color: #0000ff">=3D"credentialsMatcher"</span><span style=3D"c=
+olor: #0000ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" =
+align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/Non=
+e.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;</span><span style=3D"color: #008000">&lt;!--</span><span style=3D"colo=
+r: #008000">&nbsp;The&nbsp;'bootstrapDataPopulator'&nbsp;Sha256&nbsp;hashes=
+&nbsp;the&nbsp;password&nbsp;(using&nbsp;the&nbsp;<br><img alt=3D"" align=
+=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif=
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;username&nbsp;as&nbsp;the&nbsp;salt)&nbsp;then&nbsp;=
+base64&nbsp;encodes&nbsp;it:&nbsp;</span><span style=3D"color: #008000">--&=
+gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" sr=
+c=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span=
+ style=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">bean&nb=
+sp;</span><span style=3D"color: #ff0000">class</span><span style=3D"color: =
+#0000ff">=3D"org.apache.shiro.authc.credential.Sha256CredentialsMatcher"</s=
+pan><span style=3D"color: #0000ff">&gt;</span><span style=3D"color: #000000=
+"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Out=
+liningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color=
+: #008000">&lt;!--</span><span style=3D"color: #008000">&nbsp;true&nbsp;mea=
+ns&nbsp;hex&nbsp;encoded,&nbsp;false&nbsp;means&nbsp;base64&nbsp;encoded&nb=
+sp;</span><span style=3D"color: #008000">--&gt;</span><span style=3D"color:=
+ #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Im=
+ages/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=
+=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp=
+;</span><span style=3D"color: #ff0000">name</span><span style=3D"color: #00=
+00ff">=3D"storedCredentialsHexEncoded"</span><span style=3D"color: #ff0000"=
+>&nbsp;value</span><span style=3D"color: #0000ff">=3D"false"</span><span st=
+yle=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</s=
+pan><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"h=
+ttp://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;</span><span style=3D"color: #008000">&lt;!--</span><span style=3D"co=
+lor: #008000">&nbsp;We&nbsp;salt&nbsp;the&nbsp;password&nbsp;using&nbsp;the=
+&nbsp;username,&nbsp;the&nbsp;most&nbsp;common&nbsp;practice:&nbsp;</span><=
+span style=3D"color: #008000">--&gt;</span><span style=3D"color: #000000"><=
+br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlin=
+ingIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #=
+0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</span><spa=
+n style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff">=3D"ha=
+shSalted"</span><span style=3D"color: #ff0000">&nbsp;value</span><span styl=
+e=3D"color: #0000ff">=3D"true"</span><span style=3D"color: #ff0000">&nbsp;<=
+/span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000=
+000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/=
+OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/</spa=
+n><span style=3D"color: #800000">bean</span><span style=3D"color: #0000ff">=
+&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" s=
+rc=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000f=
+f">&lt;/</span><span style=3D"color: #800000">property</span><span style=3D=
+"color: #0000ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"=
+" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/N=
+one.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=
+=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp=
+;</span><span style=3D"color: #ff0000">name</span><span style=3D"color: #00=
+00ff">=3D"authorizationCacheName"</span><span style=3D"color: #ff0000">&nbs=
+p;value</span><span style=3D"color: #0000ff">=3D"shiro.authorizationCache"<=
+/span><span style=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #00=
+00ff">/&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D=
+"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&=
+nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/</span><s=
+pan style=3D"color: #800000">bean</span><span style=3D"color: #0000ff">&gt;=
+</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"><br><img a=
+lt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndica=
+tors/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff=
+">&lt;</span><span style=3D"color: #800000">bean&nbsp;</span><span style=3D=
+"color: #ff0000">id</span><span style=3D"color: #0000ff">=3D"myRealm"</span=
+><span style=3D"color: #ff0000">&nbsp;class</span><span style=3D"color: #00=
+00ff">=3D"org.apache.shiro.realm.text.IniRealm"</span><span style=3D"color:=
+ #ff0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Im=
+ages/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;init-method</span><span style=3D"color: #0000ff">=3D"init"</span><s=
+pan style=3D"color: #0000ff">&gt;</span><span style=3D"color: #000000"><br>=
+<img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlining=
+Indicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span=
+><span style=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">p=
+roperty&nbsp;</span><span style=3D"color: #ff0000">name</span><span style=
+=3D"color: #0000ff">=3D"name"</span><span style=3D"color: #ff0000">&nbsp;va=
+lue</span><span style=3D"color: #0000ff">=3D"myRealm"</span><span style=3D"=
+color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span><sp=
+an style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://w=
+ww.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span>=
+<span style=3D"color: #800000">property&nbsp;</span><span style=3D"color: #=
+ff0000">name</span><span style=3D"color: #0000ff">=3D"authorizationCacheNam=
+e"</span><span style=3D"color: #ff0000">&nbsp;value</span><span style=3D"co=
+lor: #0000ff">=3D"shiro.authorizationCache"</span><span style=3D"color: #ff=
+0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span><span style=
+=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogj=
+ava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><span st=
+yle=3D"color: #800000">property&nbsp;</span><span style=3D"color: #ff0000">=
+name</span><span style=3D"color: #0000ff">=3D"resourcePath"</span><span sty=
+le=3D"color: #ff0000">&nbsp;value</span><span style=3D"color: #0000ff">=3D"=
+classpath:config/myRealm.ini"</span><span style=3D"color: #ff0000">&nbsp;</=
+span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #0000=
+00"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/O=
+utliningIndicators/None.gif"><br><img alt=3D"" align=3D"top" src=3D"http://=
+www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nb=
+sp;</span><span style=3D"color: #0000ff">&lt;/</span><span style=3D"color: =
+#800000">bean</span><span style=3D"color: #0000ff">&gt;</span><span style=
+=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogj=
+ava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=3D"top=
+" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp=
+;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #008000">&lt;!--</span><spa=
+n style=3D"color: #008000">&nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D&nbsp;Shiro&nbsp;Spri=
+ng-specific&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava=
+.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;integration&nbsp;=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D&nbsp;</span><span st=
+yle=3D"color: #008000">--&gt;</span><span style=3D"color: #000000"><br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0080=
+00">&lt;!--</span><span style=3D"color: #008000">&nbsp;Post&nbsp;processor&=
+nbsp;that&nbsp;automatically&nbsp;invokes&nbsp;init()&nbsp;and&nbsp;destroy=
+()&nbsp;methods&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blog=
+java.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;for&nbsp;Spring-configured&nbsp;Shiro&nbsp;objects&nbsp;=
+so&nbsp;you&nbsp;don't&nbsp;have&nbsp;to&nbsp;1)&nbsp;specify&nbsp;an&nbsp;=
+init-method&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava=
+.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;and&nbsp;destroy-method&nbsp;attributes&nbsp;for&nbsp;every&=
+nbsp;bean&nbsp;definition&nbsp;and&nbsp;2)&nbsp;even&nbsp;know&nbsp;<br><im=
+g alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningInd=
+icators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;which&nbs=
+p;Shiro&nbsp;objects&nbsp;require&nbsp;these&nbsp;methods&nbsp;to&nbsp;be&n=
+bsp;called.&nbsp;</span><span style=3D"color: #008000">--&gt;</span><span s=
+tyle=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.b=
+logjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</=
+span><span style=3D"color: #0000ff">&lt;</span><span style=3D"color: #80000=
+0">bean&nbsp;</span><span style=3D"color: #ff0000">id</span><span style=3D"=
+color: #0000ff">=3D"lifecycleBeanPostProcessor"</span><span style=3D"color:=
+ #ff0000">&nbsp;class</span><span style=3D"color: #0000ff">=3D"org.apache.s=
+hiro.spring.LifecycleBeanPostProcessor"</span><span style=3D"color: #ff0000=
+">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span><span style=3D"co=
+lor: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.ne=
+t/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbs=
+p;&nbsp;&nbsp;</span><span style=3D"color: #008000">&lt;!--</span><span sty=
+le=3D"color: #008000">&nbsp;Enable&nbsp;Shiro&nbsp;Annotations&nbsp;for&nbs=
+p;Spring-configured&nbsp;beans.&nbsp;Only&nbsp;run&nbsp;after&nbsp;<br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the&nbsp;l=
+ifecycleBeanProcessor&nbsp;has&nbsp;run:&nbsp;</span><span style=3D"color: =
+#008000">--&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" alig=
+n=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gi=
+f">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span=
+><span style=3D"color: #800000">bean<br><img alt=3D"" align=3D"top" src=3D"=
+http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #ff0000">cla=
+ss</span><span style=3D"color: #0000ff">=3D"org.springframework.aop.framewo=
+rk.autoproxy.DefaultAdvisorAutoProxyCreator"</span><span style=3D"color: #f=
+f0000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Image=
+s/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;depends-on</span><span style=3D"color: #0000ff">=3D"lifecycleBeanPostP=
+rocessor"</span><span style=3D"color: #ff0000">&nbsp;</span><span style=3D"=
+color: #0000ff">/&gt;</span><span style=3D"color: #000000"><br><img alt=3D"=
+" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/N=
+one.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;=
+</span><span style=3D"color: #800000">bean<br><img alt=3D"" align=3D"top" s=
+rc=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #ff000=
+0">class</span><span style=3D"color: #0000ff">=3D"org.apache.shiro.spring.s=
+ecurity.interceptor.AuthorizationAttributeSourceAdvisor"</span><span style=
+=3D"color: #0000ff">&gt;</span><span style=3D"color: #000000"><br><img alt=
+=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicato=
+rs/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span s=
+tyle=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">property&=
+nbsp;</span><span style=3D"color: #ff0000">name</span><span style=3D"color:=
+ #0000ff">=3D"securityManager"</span><span style=3D"color: #ff0000">&nbsp;r=
+ef</span><span style=3D"color: #0000ff">=3D"securityManager"</span><span st=
+yle=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</s=
+pan><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"h=
+ttp://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nb=
+sp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/</span><span style=3D"c=
+olor: #800000">bean</span><span style=3D"color: #0000ff">&gt;</span><span s=
+tyle=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.b=
+logjava.net/Images/OutliningIndicators/None.gif"><br><img alt=3D"" align=3D=
+"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"><=
+br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlin=
+ingIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color=
+: #008000">&lt;!--</span><span style=3D"color: #008000">&nbsp;Secure&nbsp;S=
+pring&nbsp;remoting:&nbsp;Ensure&nbsp;any&nbsp;Spring&nbsp;Remoting&nbsp;me=
+thod&nbsp;invocations&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://ww=
+w.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;can&nbsp;be&nbsp;associated&nbsp;with&nbsp;a&nbsp;=
+Subject&nbsp;for&nbsp;security&nbsp;checks.&nbsp;</span><span style=3D"colo=
+r: #008000">--&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" a=
+lign=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None=
+.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</s=
+pan><span style=3D"color: #800000">bean&nbsp;</span><span style=3D"color: #=
+ff0000">id</span><span style=3D"color: #0000ff">=3D"secureRemoteInvocationE=
+xecutor"</span><span style=3D"color: #ff0000"><br><img alt=3D"" align=3D"to=
+p" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;class</span><span style=3D"colo=
+r: #0000ff">=3D"org.apache.shiro.spring.remoting.SecureRemoteInvocationExec=
+utor"</span><span style=3D"color: #0000ff">&gt;</span><span style=3D"color:=
+ #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Im=
+ages/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><span style=3D"col=
+or: #800000">property&nbsp;</span><span style=3D"color: #ff0000">name</span=
+><span style=3D"color: #0000ff">=3D"securityManager"</span><span style=3D"c=
+olor: #ff0000">&nbsp;ref</span><span style=3D"color: #0000ff">=3D"securityM=
+anager"</span><span style=3D"color: #ff0000">&nbsp;</span><span style=3D"co=
+lor: #0000ff">/&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" =
+align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/Non=
+e.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/<=
+/span><span style=3D"color: #800000">bean</span><span style=3D"color: #0000=
+ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"to=
+p" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"><br>=
+<img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlining=
+Indicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #=
+008000">&lt;!--</span><span style=3D"color: #008000">&nbsp;Define&nbsp;the&=
+nbsp;Shiro&nbsp;Filter&nbsp;here&nbsp;(as&nbsp;a&nbsp;FactoryBean)&nbsp;ins=
+tead&nbsp;of&nbsp;directly&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http=
+://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in&nbsp;web.xml&nbsp;-&nbsp;web.xml&nbsp;uses=
+&nbsp;the&nbsp;DelegatingFilterProxy&nbsp;to&nbsp;access&nbsp;this&nbsp;bea=
+n.&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Imag=
+es/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;This&nbsp;allows&nbsp;us&nbsp;to&nbsp;wire&nbsp;things&nbsp;with&nbsp=
+;more&nbsp;control&nbsp;as&nbsp;well&nbsp;utilize&nbsp;nice&nbsp;Spring&nbs=
+p;<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Out=
+liningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+things&nbsp;such&nbsp;as&nbsp;PropertiesPlaceholderConfigurer&nbsp;and&nbsp=
+;abstract&nbsp;beans&nbsp;or&nbsp;anything&nbsp;<br><img alt=3D"" align=3D"=
+top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else&nbsp;we&nbsp;might&nbsp;=
+need:&nbsp;</span><span style=3D"color: #008000">--&gt;</span><span style=
+=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.blogj=
+ava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span=
+><span style=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">b=
+ean&nbsp;</span><span style=3D"color: #ff0000">id</span><span style=3D"colo=
+r: #0000ff">=3D"shiroFilter"</span><span style=3D"color: #ff0000">&nbsp;cla=
+ss</span><span style=3D"color: #0000ff">=3D"org.apache.shiro.spring.web.Shi=
+roFilterFactoryBean"</span><span style=3D"color: #0000ff">&gt;</span><span =
+style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http://www.=
+blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</span><sp=
+an style=3D"color: #800000">property&nbsp;</span><span style=3D"color: #ff0=
+000">name</span><span style=3D"color: #0000ff">=3D"securityManager"</span><=
+span style=3D"color: #ff0000">&nbsp;ref</span><span style=3D"color: #0000ff=
+">=3D"securityManager"</span><span style=3D"color: #ff0000">&nbsp;</span><s=
+pan style=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000000"><br=
+><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlinin=
+gIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</spa=
+n><span style=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">=
+property&nbsp;</span><span style=3D"color: #ff0000">name</span><span style=
+=3D"color: #0000ff">=3D"loginUrl"</span><span style=3D"color: #ff0000">&nbs=
+p;value</span><span style=3D"color: #0000ff">=3D"/login"</span><span style=
+=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt;</span=
+><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"http=
+://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;</s=
+pan><span style=3D"color: #800000">property&nbsp;</span><span style=3D"colo=
+r: #ff0000">name</span><span style=3D"color: #0000ff">=3D"successUrl"</span=
+><span style=3D"color: #ff0000">&nbsp;value</span><span style=3D"color: #00=
+00ff">=3D"/index"</span><span style=3D"color: #ff0000">&nbsp;</span><span s=
+tyle=3D"color: #0000ff">/&gt;</span><span style=3D"color: #000000"><br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><sp=
+an style=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">prope=
+rty&nbsp;</span><span style=3D"color: #ff0000">name</span><span style=3D"co=
+lor: #0000ff">=3D"unauthorizedUrl"</span><span style=3D"color: #ff0000">&nb=
+sp;value</span><span style=3D"color: #0000ff">=3D"/unauthorized"</span><spa=
+n style=3D"color: #ff0000">&nbsp;</span><span style=3D"color: #0000ff">/&gt=
+;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #008000"=
+>&lt;!--</span><span style=3D"color: #008000">&nbsp;The&nbsp;'filters'&nbsp=
+;property&nbsp;is&nbsp;not&nbsp;necessary&nbsp;since&nbsp;any&nbsp;declared=
+&nbsp;javax.servlet.Filter&nbsp;<br><img alt=3D"" align=3D"top" src=3D"http=
+://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bean&nbsp;defined&nbs=
+p;will&nbsp;be&nbsp;automatically&nbsp;acquired&nbsp;and&nbsp;available&nbs=
+p;via&nbsp;its&nbsp;beanName&nbsp;<br><img alt=3D"" align=3D"top" src=3D"ht=
+tp://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in&nbsp;chain&nbsp;=
+definitions,&nbsp;but&nbsp;you&nbsp;can&nbsp;perform&nbsp;overrides&nbsp;or=
+&nbsp;parent/child&nbsp;consolidated&nbsp;<br><img alt=3D"" align=3D"top" s=
+rc=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;configurati=
+on&nbsp;here&nbsp;if&nbsp;you&nbsp;like:&nbsp;</span><span style=3D"color: =
+#008000">--&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" alig=
+n=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gi=
+f">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"co=
+lor: #008000">&lt;!--</span><span style=3D"color: #008000">&nbsp;&lt;proper=
+ty&nbsp;name=3D"filters"&gt;&nbsp;&lt;util:map&gt;&nbsp;&lt;entry&nbsp;key=
+=3D"aName"&nbsp;value-ref=3D"someFilterPojo"/&gt;&nbsp;<br><img alt=3D"" al=
+ign=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.=
+gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&lt;/util:map&gt;&nbsp;&lt;/property&gt;&nbsp;</span><span style=3D"color=
+: #008000">--&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" al=
+ign=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.=
+gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"=
+color: #0000ff">&lt;</span><span style=3D"color: #800000">property&nbsp;</s=
+pan><span style=3D"color: #ff0000">name</span><span style=3D"color: #0000ff=
+">=3D"filterChainDefinitions"</span><span style=3D"color: #0000ff">&gt;</sp=
+an><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=3D"ht=
+tp://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=
+=3D"color: #0000ff">&lt;</span><span style=3D"color: #800000">value</span><=
+span style=3D"color: #0000ff">&gt;</span><span style=3D"color: #000000"><br=
+><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Outlinin=
+gIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/login&nbsp;=3D&nbsp;authc<br><i=
+mg alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIn=
+dicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/account&nbsp;=3D&nbsp;user<br><img=
+ alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndi=
+cators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/manage&nbsp;=3D&nbsp;user,roles[admi=
+n]<br><img alt=3D"" align=3D"top" src=3D"http://www.blogjava.net/Images/Out=
+liningIndicators/None.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/</span><=
+span style=3D"color: #800000">value</span><span style=3D"color: #0000ff">&g=
+t;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"top" src=
+=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif">&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff"=
+>&lt;/</span><span style=3D"color: #800000">property</span><span style=3D"c=
+olor: #0000ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" =
+align=3D"top" src=3D"http://www.blogjava.net/Images/OutliningIndicators/Non=
+e.gif">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=3D"color: #0000ff">&lt;/<=
+/span><span style=3D"color: #800000">bean</span><span style=3D"color: #0000=
+ff">&gt;</span><span style=3D"color: #000000"><br><img alt=3D"" align=3D"to=
+p" src=3D"http://www.blogjava.net/Images/OutliningIndicators/None.gif"></sp=
+an><span style=3D"color: #0000ff">&lt;/</span><span style=3D"color: #800000=
+">beans</span><span style=3D"color: #0000ff">&gt;</span></div>&nbsp; <br><s=
+trong><strong></strong>5=E3=80=81=E5=9F=BA=E4=BA=8Eurl=E8=B5=84=E6=BA=90=E7=
+=9A=84=E6=9D=83=E9=99=90=E7=AE=A1=E7=90=86</strong> <wbr><wbr><wbr><wbr><br=
+>=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E7=AE=80=E5=8D=95=E9=85=8D=E7=BD=AE=
+=E5=9C=A8shiroFilter=E7=9A=84filterChainDefinitions=E4=B8=AD=EF=BC=8C=E4=B9=
+=9F=E5=8F=AF=E4=BB=A5=E8=80=83=E8=99=91=E9=80=9A=E8=BF=87=E4=B8=80=E4=B8=AA=
+=E6=96=87=E6=9C=AC=E6=96=87=E4=BB=B6=EF=BC=8C=E6=88=91=E4=BB=AC=E8=AF=BB=E5=
+=85=A5=E5=86=85=E5=AE=B9=E5=90=8E=E8=AE=BE=E7=BD=AE=E8=BF=9B=E5=8E=BB=E3=80=
+=82=E6=88=96=E8=80=85=E9=80=9A=E8=BF=87Ini=E7=B1=BB=E6=9D=A5=E8=A3=85=E5=85=
+=A5Ini=E6=96=87=E4=BB=B6=E5=86=85=E5=AE=B9=EF=BC=8C=E5=88=B0=E6=97=B6=E5=8F=
+=96=E5=87=BAurls=E7=9A=84=E9=83=A8=E5=88=86=E6=9D=A5=E8=AE=BE=E7=BD=AE=E7=
+=BB=99shiroFilter=E7=9A=84filterChainDefinitions=E3=80=82=E4=B9=9F=E5=8F=AF=
+=E4=BB=A5=E6=8A=8A=E8=BF=99=E9=83=A8=E5=88=86=E6=95=B0=E6=8D=AE=E5=AD=98=E5=
+=85=A5=E6=95=B0=E6=8D=AE=E5=BA=93=E8=A1=A8=E4=B8=AD=EF=BC=8C=E5=88=B0=E6=97=
+=B6=E8=AF=BB=E5=87=BA=E4=B8=80=E4=B8=AAMap=E6=9D=A5=E8=AE=BE=E7=BD=AE=E7=BB=
+=99shiroFilter=E7=9A=84filterChainDefinitionsMa<wbr>p=E5=B1=9E=E6=80=A7=E3=
+=80=82 <br><br><wbr><strong>6=E3=80=81url=E7=9A=84=E9=85=8D=E7=BD=AE</stron=
+g> <br><wbr><wbr>authc=E6=98=AF=E8=AE=A4=E8=AF=81=E7=94=A8=E6=88=B7=EF=BC=
+=88rememberMe=E7=9A=84=E7=94=A8=E6=88=B7=E4=B9=9F=E5=BF=85=E9=A1=BB=E5=86=
+=8D=E6=AC=A1=E7=99=BB=E5=BD=95=E6=89=8D=E8=83=BD=E8=AE=BF=E9=97=AE=E8=AF=A5=
+url=EF=BC=89=EF=BC=8C=E9=85=8D=E7=BD=AE=E6=88=90user=E6=89=8D=E8=83=BD=E8=
+=AE=A9rememberMe=E7=94=A8=E6=88=B7=E4=B9=9F=E5=8F=AF=E4=BB=A5=E8=AE=BF=E9=
+=97=AE=E3=80=82 <br><br><wbr><strong>7=E3=80=81rememberMe Cookie=E7=9A=84=
+=E5=A4=84=E7=90=86</strong> <br><strong><wbr><wbr><wbr></strong>Shiro=E6=9C=
+=89=E4=B8=80=E5=A5=97=E7=BC=BA=E7=9C=81=E6=9C=BA=E5=88=B6=EF=BC=8C=E7=94=B1=
+CookieRememberMeManager=E5=AE=9E=E7=8E=B0=E3=80=82=E5=85=B6=E6=9C=89=E4=B8=
+=80=E4=B8=AASimpleCookie=E7=B1=BB=EF=BC=8C=E4=BF=9D=E5=AD=98=E5=AF=B9=E5=BA=
+=94=E7=9A=84=E7=94=A8=E6=88=B7=E4=BF=A1=E6=81=AF=E7=AD=89=E3=80=82<br><br>=
+=E6=AF=8F=E6=AC=A1=E4=BF=9D=E5=AD=98=E6=97=B6=EF=BC=8C=E7=B3=BB=E7=BB=9F=E6=
+=8A=8ASimpleCookie=E7=9A=84=E4=BF=A1=E6=81=AF=E8=AE=BE=E7=BD=AE=E5=A5=BD=E4=
+=B9=8B=E5=90=8E=EF=BC=8C=E5=85=88=E7=94=A8DefaultSerializer=E6=8A=8A=E5=85=
+=B6=E7=94=A8jvm=E7=BC=BA=E7=9C=81=E5=BA=8F=E5=88=97=E5=8C=96=E6=96=B9=E5=BC=
+=8F=E5=BA=8F=E5=88=97=E5=8C=96=E6=88=90byte[],=E7=84=B6=E5=90=8E=E5=86=8D=
+=E7=94=A8cipherService=EF=BC=88=E7=BC=BA=E7=9C=81=E6=98=AFaes=E5=8A=A0=E5=
+=AF=86=E7=AE=97=E6=B3=95=EF=BC=89=E6=9D=A5=E5=8A=A0=E5=AF=86=E8=AF=A5byte[]=
+,=E6=9C=80=E5=90=8E=E7=94=A8Base64.encodeToString(serialized)=E5=8E=8B=E7=
+=BC=A9=E6=88=90=E4=B8=80=E4=B8=AA=E5=AD=97=E7=AC=A6=E4=B8=B2=EF=BC=8C=E5=86=
+=8D=E5=86=99=E5=85=A5=E5=90=8D=E7=A7=B0=E4=B8=BArememberMe=E7=9A=84Cookie=
+=E4=B8=AD=E3=80=82 <br><br><wbr>=E8=AF=BB=E5=8F=96=E6=97=B6=EF=BC=8C=E9=80=
+=9A=E8=BF=87=E6=8A=8A=E8=AF=A5rememberMe Cookie=E7=9A=84=E5=86=85=E5=AE=B9=
+=E7=94=A8byte[] decoded =3D Base64.decode(base64)=E8=A7=A3=E5=8E=8B=E5=87=
+=BA=E8=AF=A5byte[]=EF=BC=8C=E5=86=8D=E7=94=A8cipherService=E8=A7=A3=E5=AF=
+=86=EF=BC=8C=E6=9C=80=E5=90=8E=E7=94=A8DefaultSerializer=E5=8F=8D=E5=BA=8F=
+=E5=88=97=E5=8C=96=E5=87=BA=E6=9D=A5=E8=AF=A5SimpleCookie=E7=B1=BB=E3=80=82=
+ <br><br><wbr><font style=3D"font-size: 18px" color=3D"#ed1c24">=E5=A6=82=
+=E6=9E=9C=E6=88=91=E4=BB=AC=E6=9C=89=E8=87=AA=E5=AE=9A=E4=B9=89=E7=9A=84rem=
+emberMe Cookie=E9=9C=80=E8=A6=81=E5=A4=84=E7=90=86=EF=BC=8C=E7=89=B9=E5=88=
+=AB=E6=98=AF=E5=9C=A8=E5=92=8C=E5=85=B6=E4=BB=96=E7=BD=91=E7=AB=99=E4=B8=80=
+=E8=B5=B7SSO=EF=BC=8C=E9=80=9A=E8=BF=87=E8=AE=BF=E9=97=AE=E4=B8=BB=E5=9F=9F=
+=E7=9A=84Cookie=E6=9D=A5=E8=8E=B7=E5=8F=96=E8=AE=B0=E5=BD=95=E7=9A=84=E7=94=
+=A8=E6=88=B7=E4=BF=A1=E6=81=AF=E6=97=B6=EF=BC=8C=E6=88=91=E4=BB=AC=E9=9C=80=
+=E8=A6=81=E9=87=8D=E6=96=B0=E5=AE=9E=E7=8E=B0rememberMeManager=EF=BC=88=E5=
+=8F=AF=E4=BB=A5=E8=80=83=E8=99=91=E7=BB=A7=E6=89=BFAbstractRememberMeManage=
+<wbr>r=EF=BC=89=EF=BC=8C=E5=92=8C=E6=A0=B9=E6=8D=AE=E5=AE=9E=E9=99=85=E7=94=
+=A8=E7=9A=84=E5=BA=8F=E5=88=97=E5=8C=96=E6=96=B9=E5=BC=8FSerializer=E6=9D=
+=A5=E5=AE=9E=E7=8E=B0=E4=B8=80=E4=B8=AA=EF=BC=88=E6=AF=94=E5=A6=82=E8=80=83=
+=E8=99=91=E9=80=9A=E7=94=A8=E6=80=A7=EF=BC=8C=E7=94=A8json=E6=96=B9=E5=BC=
+=8F=E5=BA=8F=E5=88=97=E5=8C=96=EF=BC=89=E3=80=82<br><br>=E5=9C=A8Spring=E9=
+=85=8D=E7=BD=AE=E4=B8=AD=EF=BC=8C=E9=85=8D=E7=BD=AE=E5=A5=BDRememberMeManag=
+er=EF=BC=8C=E8=A3=85=E9=85=8D=E4=B8=8Asericerlizer=E5=92=8CcipherService=EF=
+=BC=88=E6=A0=B9=E6=8D=AE=E5=AE=9E=E9=99=85=E6=83=85=E5=86=B5=E9=80=89=E7=94=
+=A8=E9=80=82=E5=BD=93=E7=9A=84=E5=8A=A0=E5=AF=86=E7=AE=97=E6=B3=95=EF=BC=89=
+=EF=BC=8C=E6=9C=80=E5=90=8E=E6=8A=8ArememberMeManager=E8=AE=BE=E7=BD=AE=E7=
+=BB=99DefaultWebSecurityManage<wbr>r=E5=8D=B3=E5=8F=AF=E3=80=82=E5=A6=82=E6=
+=9E=9C=E9=9D=9E=E5=B8=B8=E7=AE=80=E5=8D=95=E7=9A=84cookie=EF=BC=8C=E5=8F=AF=
+=E4=BB=A5=E7=9B=B4=E6=8E=A5=E5=AE=9E=E7=8E=B0RememberMeManager=E7=9A=84=E5=
+=87=A0=E4=B8=AA=E6=8E=A5=E5=8F=A3=E6=96=B9=E6=B3=95=E4=B9=9F=E8=A1=8C=E3=80=
+=82</font> <wbr>
+		<p class=3D"postfoot">
+			posted on 2012-01-28 16:07 <a href=3D"http://www.blogjava.net/paulwong/"=
+>paulwong</a> =E9=98=85=E8=AF=BB(11567) <a href=3D"http://www.blogjava.net/=
+paulwong/archive/2012/01/28/368930.html#Post">=E8=AF=84=E8=AE=BA(0)</a> &nb=
+sp;<a href=3D"http://www.blogjava.net/paulwong/admin/EditPosts.aspx?postid=
+=3D368930">=E7=BC=96=E8=BE=91</a> &nbsp;<a href=3D"http://www.blogjava.net/=
+paulwong/AddToFavorite.aspx?id=3D368930">=E6=94=B6=E8=97=8F</a>  =E6=89=80=
+=E5=B1=9E=E5=88=86=E7=B1=BB: <a href=3D"http://www.blogjava.net/paulwong/ca=
+tegory/50682.html">Apache Shiro</a>=20
+		</p>
+	</div>
+	<img src=3D"http://www.blogjava.net/paulwong/aggbug/368930.html?webview=3D=
+1" width=3D"1" height=3D"1">
+=09
+<!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc=3D"http://purl.org/dc/elements/1.1/"
+xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trackback/">
+<rdf:Description
+rdf:about=3D"http://www.blogjava.net/paulwong/archive/2012/01/28/368930.htm=
+l"
+dc:identifier=3D"http://www.blogjava.net/paulwong/archive/2012/01/28/368930=
+.html"
+dc:title=3D"=E5=AE=89=E5=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6-Apache S=
+hiro=E7=A0=94=E7=A9=B6=E5=BF=83=E5=BE=97"
+trackback:ping=3D"http://www.blogjava.net/paulwong/services/trackbacks/3689=
+30.aspx" />
+</rdf:RDF>
+-->
+
+
+
+<div id=3D"AjaxHolder_UpdatePanel1">
+	   =20
+   =20
+<style>
+td { font-size: 12px }
+.commentTextBox=20
+{=20
+    font-family : Verdana;=20
+    font-size: 13px;
+ }
+</style>
+<!--Beging Temp Save-->
+<style>.userData { BEHAVIOR: url(#default#userdata) }
+	</style>
+<div class=3D"userData" id=3D"CommentsPersistDiv"></div>
+
+
+<!--Ene TempSave-->
+<div id=3D"divRefreshComments" style=3D"text-align:right;margin-right:10px;=
+margin-bottom:5px;font-size:12px"><a href=3D"http://www.blogjava.net/Requir=
+eRegister.aspx">=E6=96=B0=E7=94=A8=E6=88=B7=E6=B3=A8=E5=86=8C</a>&nbsp;&nbs=
+p;<a id=3D"AjaxHolder_PostComment_refreshList" href=3D"javascript:__doPostB=
+ack('AjaxHolder$PostComment$refreshList','')">=E5=88=B7=E6=96=B0=E8=AF=84=
+=E8=AE=BA=E5=88=97=E8=A1=A8</a>&nbsp;&nbsp;</div>
+<div class=3D"commentform">
+<span id=3D"AjaxHolder_PostComment_ltSubmitMsg" style=3D"color:Red;"></span=
+>
+<br>
+<a name=3D"Feedback"></a>
+	<div id=3D"AjaxHolder_PostComment_divCommnentArea">
+		</div><table cellspacing=3D"1" cellpadding=3D"1" border=3D"0">=09
+		<tbody><tr>
+		<td id=3D"AjaxHolder_PostComment_tdOnCommentForm" colspan=3D"3" style=3D"=
+line-height:1.5">	=09
+		</td>
+=09
+		</tr>
+		<tr>
+			<td colspan=3D"3"></td>
+		</tr>
+		<tr>
+			<td width=3D"75"></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td colspan=3D"2">
+			<a href=3D"http://job.cnblogs.com/" target=3D"_blank">=E6=89=BE=E4=BC=98=
+=E7=A7=80=E7=A8=8B=E5=BA=8F=E5=91=98=EF=BC=8C=E5=B0=B1=E5=9C=A8=E5=8D=9A=E5=
+=AE=A2=E5=9B=AD</a>
+			<!--<a href=3D"http://www.cnblogs.com" target=3D"_blank">=E5=8D=9A=E5=AE=
+=A2=E5=9B=AD</a>&nbsp;  <a href=3D"http://q.cnblogs.com/" target=3D"_blank"=
+>=E5=8D=9A=E9=97=AE</a>&nbsp; <a href=3D"http://news.cnblogs.com" target=3D=
+"_blank">IT=E6=96=B0=E9=97=BB</a>&nbsp; <a href=3D"http://job.cnblogs.com/c=
+ate-java_programmer/" target=3D"_blank">Java=E7=A8=8B=E5=BA=8F=E5=91=98=E6=
+=8B=9B=E8=81=98</a>-->
+			</td>
+		</tr>
+		<tr>
+			<td width=3D"55">=E6=A0=87=E9=A2=98</td>
+			<td><input name=3D"AjaxHolder$PostComment$tbTitle" type=3D"text" value=
+=3D"re: =E5=AE=89=E5=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6-Apache Shiro=
+=E7=A0=94=E7=A9=B6=E5=BF=83=E5=BE=97" id=3D"AjaxHolder_PostComment_tbTitle"=
+ class=3D"commenttb" style=3D"width:320"></td>
+			<td><span id=3D"AjaxHolder_PostComment_RequiredFieldValidator1" style=3D=
+"color:Red;visibility:hidden;">=E8=AF=B7=E8=BE=93=E5=85=A5=E6=A0=87=E9=A2=
+=98</span></td>
+		</tr>
+		<tr>
+			<td>=E5=A7=93=E5=90=8D</td>
+			<td><input name=3D"AjaxHolder$PostComment$tbName" type=3D"text" id=3D"Aj=
+axHolder_PostComment_tbName" class=3D"commenttb" style=3D"width:320"></td>
+			<td><span id=3D"AjaxHolder_PostComment_RequiredFieldValidator2" style=3D=
+"color:Red;visibility:hidden;">=E8=AF=B7=E8=BE=93=E5=85=A5=E4=BD=A0=E7=9A=
+=84=E5=A7=93=E5=90=8D</span></td>
+		</tr>
+		<tr>
+			<td>=E4=B8=BB=E9=A1=B5</td>
+			<td><input name=3D"AjaxHolder$PostComment$tbUrl" type=3D"text" id=3D"Aja=
+xHolder_PostComment_tbUrl" class=3D"commenttb" style=3D"width:320"></td>
+			<td><font face=3D"=E5=AE=8B=E4=BD=93"></font></td>
+		</tr>
+		<tr>
+			<td align=3D"left" colspan=3D"3">
+				<table id=3D"AjaxHolder_PostComment_tbCaptchaImage" class=3D"CommentFor=
+m" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+		<tbody><tr>
+			<td colspan=3D"3">
+							<span id=3D"AjaxHolder_PostComment_Requiredfieldvalidator4" style=3D=
+"color:Red;display:none;">=E8=AF=B7=E8=BE=93=E5=85=A5=E9=AA=8C=E8=AF=81=E7=
+=A0=81</span>
+							<span id=3D"AjaxHolder_PostComment_lblImage" style=3D"color:Red;font=
+-weight:bold;"></span>
+						</td>
+		</tr>
+		<tr>
+			<td width=3D"78">=E9=AA=8C=E8=AF=81=E7=A0=81</td>
+			<td><input name=3D"AjaxHolder$PostComment$CodeNumberTextBox" type=3D"tex=
+t" id=3D"AjaxHolder_PostComment_CodeNumberTextBox">*&nbsp;&nbsp;<img src=3D=
+"http://www.blogjava.net/Modules/CaptchaImage/JpegImage.aspx?cacheid=3D2015=
+0603100631"></td>
+			<td align=3D"left"></td>
+		</tr>
+	</tbody></table>
+=09
+			</td>
+		</tr>
+		<tr>
+			<td colspan=3D"3">=E5=86=85=E5=AE=B9(=E8=AF=B7=E4=B8=8D=E8=A6=81=E5=8F=
+=91=E8=A1=A8=E4=BB=BB=E4=BD=95=E4=B8=8E=E6=94=BF=E6=B2=BB=E7=9B=B8=E5=85=B3=
+=E7=9A=84=E5=86=85=E5=AE=B9)
+				<span id=3D"AjaxHolder_PostComment_RequiredFieldValidator3" style=3D"co=
+lor:Red;visibility:hidden;">=E8=AF=B7=E8=BE=93=E5=85=A5=E8=AF=84=E8=AE=BA=
+=E5=86=85=E5=AE=B9</span><br>
+				<textarea name=3D"AjaxHolder$PostComment$tbComment" rows=3D"10" cols=3D=
+"50" id=3D"AjaxHolder_PostComment_tbComment" class=3D"commentTextBox" onkey=
+down=3D"ctlent(event,'AjaxHolder_PostComment_tbComment')" style=3D"Width:48=
+0;Height:220"></textarea></td>
+		</tr>
+		<tr>
+			<td colspan=3D"3">
+		<span id=3D"AjaxHolder_PostComment_Message" style=3D"color:Red;"></span>
+		</td>
+		</tr><tr>
+			<td colspan=3D"3"><input id=3D"AjaxHolder_PostComment_chkRemember" type=
+=3D"checkbox" name=3D"AjaxHolder$PostComment$chkRemember" checked=3D"checke=
+d" tabindex=3D"-1"><label for=3D"AjaxHolder_PostComment_chkRemember">Rememb=
+er Me?</label></td>
+		</tr>
+		<tr>
+			<td height=3D"23"><input type=3D"submit" name=3D"AjaxHolder$PostComment$=
+btnSubmit" value=3D"=E6=8F=90=E4=BA=A4" onclick=3D"TempSave('AjaxHolder_Pos=
+tComment_tbComment');WebForm_DoPostBackWithOptions(new WebForm_PostBackOpti=
+ons(&quot;AjaxHolder$PostComment$btnSubmit&quot;, &quot;&quot;, true, &quot=
+;&quot;, &quot;&quot;, false, false))" id=3D"AjaxHolder_PostComment_btnSubm=
+it" class=3D"commentButton">
+				</td>
+			<td colspan=3D"2" height=3D"23">&nbsp;
+				<a id=3D"AjaxHolder_PostComment_lnkLogin" href=3D"http://www.blogjava.n=
+et/login.aspx?ReturnURL=3Dhttp://www.blogjava.net/paulwong/archive/2012/01/=
+28/368930.html&amp;SourceURL=3D/paulwong/archive/2012/01/28/368930.html">=
+=E7=99=BB=E5=BD=95</a>&nbsp;&nbsp;<!--<a id=3D"AjaxHolder_PostComment_linkL=
+oginComment" OnClick=3D"if(document.getElementById('AjaxHolder_PostComment_=
+tbComment').value !=3D '') return confirm('=E6=9C=AA=E6=8F=90=E4=BA=A4=E7=
+=9A=84=E8=AF=84=E8=AE=BA=E5=86=85=E5=AE=B9=E5=B0=86=E4=BC=9A=E4=B8=A2=E5=A4=
+=B1, =E4=BD=A0=E7=9C=9F=E7=9A=84=E8=A6=81=E8=BF=9B=E5=85=A5=E9=AB=98=E7=BA=
+=A7=E8=AF=84=E8=AE=BA=E5=90=97?');" href=3D"http://www.blogjava.net/paulwon=
+g/archive/2012/01/28/368930.html?login=3D1#Post">=E4=BD=BF=E7=94=A8=E9=AB=
+=98=E7=BA=A7=E8=AF=84=E8=AE=BA</a>&nbsp;&nbsp;<a href=3D"http://www.blogjav=
+a.net/RequireRegister.aspx">=E6=96=B0=E7=94=A8=E6=88=B7=E6=B3=A8=E5=86=8C</=
+a>&nbsp;&nbsp;<A href=3D"#Top">=E8=BF=94=E5=9B=9E=E9=A1=B5=E9=A6=96</A>&nbs=
+p;&nbsp;<a id=3D"AjaxHolder_PostComment_lbRestore" OnClick=3D"Restore('Ajax=
+Holder_PostComment_tbComment'); return false;" href=3D"/paulwong/archive/20=
+12/01/28/368930.html#Post">=E6=81=A2=E5=A4=8D=E4=B8=8A=E6=AC=A1=E6=8F=90=E4=
+=BA=A4</a>&nbsp;&nbsp;-->&nbsp;&nbsp;&nbsp;&nbsp;
+				</td>
+		</tr>
+		<tr>
+			<td colspan=3D"3"><label class=3D"CtrlEnter">[=E4=BD=BF=E7=94=A8Ctrl+Ent=
+er=E9=94=AE=E5=8F=AF=E4=BB=A5=E7=9B=B4=E6=8E=A5=E6=8F=90=E4=BA=A4]</label><=
+/td>
+		</tr>
+	=09
+	=09
+		<tr>
+			<td colspan=3D"3"><!--=E8=AF=A5=E6=96=87=E8=A2=AB=E4=BD=9C=E8=80=85=E5=
+=9C=A8 2012-01-28 16:14 =E7=BC=96=E8=BE=91=E8=BF=87--></td>
+		</tr>
+		<!--
+		<TR>
+			<TD colSpan=3D"3" height=3D"5"></TD>
+		</TR>=09
+		-->=09
+		<tr>
+		<td colspan=3D"3">
+	=09
+
+
+
+<!-- blogjava_blogpost_bottom -->
+<div id=3D"div-gpt-ad-1364133350381-0" style=3D"width:300px; height:250px;"=
+>
+
+</div>
+<br>
+
+		</td>
+		</tr>
+		<tr>		=09
+		<td colspan=3D"3">
+	=09
+		</td>
+		</tr>
+		<tr>
+		<td colspan=3D"3"></td>
+		</tr>
+		<tr>
+			<td colspan=3D"3" height=3D"1">=E7=BD=91=E7=AB=99=E5=AF=BC=E8=88=AA:<div=
+ id=3D"blogsite">
+			<a href=3D"http://www.cnblogs.com/" title=3D"=E5=BC=80=E5=8F=91=E8=80=85=
+=E7=9A=84=E7=BD=91=E4=B8=8A=E5=AE=B6=E5=9B=AD">=E5=8D=9A=E5=AE=A2=E5=9B=AD<=
+/a>&nbsp;&nbsp;
+			<a href=3D"http://news.cnblogs.com/">IT=E6=96=B0=E9=97=BB</a>&nbsp;&nbsp=
+;
+			<a href=3D"http://kb.cnblogs.com/">=E7=9F=A5=E8=AF=86=E5=BA=93</a>&nbsp;=
+&nbsp;
+			<a href=3D"http://www.cppblog.com/">C++=E5=8D=9A=E5=AE=A2</a>&nbsp;&nbsp=
+;
+			<a href=3D"http://job.cnblogs.com/">=E7=A8=8B=E5=BA=8F=E5=91=98=E6=8B=9B=
+=E8=81=98</a>&nbsp;&nbsp;
+			<a href=3D"http://www.blogjava.net/paulwong/archive/2012/01/28/368930.ht=
+ml?opt=3Dadmin">=E7=AE=A1=E7=90=86</a>
+			</div>
+		</td>
+		</tr>
+		<tr>
+			<td colspan=3D"3" height=3D"5">
+<div id=3D"divRelativePosts">
+=E7=9B=B8=E5=85=B3=E6=96=87=E7=AB=A0:
+=09
+			<ul style=3D"margin-top:0px;padding-left:0px;">
+	=09
+			<li style=3D"list-style:none;">
+				<a id=3D"AjaxHolder_PostComment_ctl07_RelativePostsList_ctl01_Hyperlink=
+1" href=3D"http://www.blogjava.net/paulwong/archive/2012/01/30/369043.html"=
+>JAAS=E5=AE=89=E5=85=A8=E6=9C=AF=E8=AF=AD</a>
+			</li>
+	=09
+			<li style=3D"list-style:none;display:none">
+				<a id=3D"AjaxHolder_PostComment_ctl07_RelativePostsList_ctl02_Hyperlink=
+1" href=3D"http://www.blogjava.net/paulwong/archive/2012/01/28/368930.html"=
+>=E5=AE=89=E5=85=A8=E8=AE=A4=E8=AF=81=E6=A1=86=E6=9E=B6-Apache Shiro=E7=A0=
+=94=E7=A9=B6=E5=BF=83=E5=BE=97</a>
+			</li>
+	=09
+			<li style=3D"list-style:none;">
+				<a id=3D"AjaxHolder_PostComment_ctl07_RelativePostsList_ctl03_Hyperlink=
+1" href=3D"http://www.blogjava.net/paulwong/archive/2012/01/28/368918.html"=
+>Oracle Coherence =E6=A6=82=E8=BF=B0 </a>
+			</li>
+	=09
+			<li style=3D"list-style:none;">
+				<a id=3D"AjaxHolder_PostComment_ctl07_RelativePostsList_ctl04_Hyperlink=
+1" href=3D"http://www.blogjava.net/paulwong/archive/2012/01/27/368917.html"=
+>=E8=AE=A9Apache Shiro=E4=BF=9D=E6=8A=A4=E4=BD=A0=E7=9A=84=E5=BA=94=E7=94=
+=A8</a>
+			</li>
+	=09
+			</ul>
+	=09
+</div>
+</td>
+		</tr>=09
+		<tr>
+			<td colspan=3D"3">&nbsp;</td>
+		</tr>
+		<tr>
+			<td colspan=3D"3" height=3D"5"></td>
+		</tr>
+		<tr>
+			<td colspan=3D"3">
+				</td>
+		</tr>	=09
+	</tbody></table>=09
+</div>
+<div id=3D"AjaxHolder_PostComment_ValidationSummary1" style=3D"color:Red;di=
+splay:none;">
+
+	</div>
+
+</div>
+
+			=09
+</div>
+
+
+<p id=3D"footer">
+	Powered by:=20
+	<br>
+=09
+	<a id=3D"Footer1_Hyperlink3" name=3D"Hyperlink1" href=3D"http://www.blogja=
+va.net/" style=3D"font-family:Verdana;font-size:12px;">BlogJava</a>
+	<br>
+	Copyright =C2=A9 paulwong
+</p>
+   =20
+
+
+
+
+
+
+</form>
+   =20
+=09
+
+
+</body></html>
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.blogjava.net/css/common.css
+
+a.site_hot:visited, a.site_hot:active, a.site_hot:link { color: red; text-d=
+ecoration: none; }
+
+a.site_hot:hover { color: red; text-decoration: underline; }
+
+a.site_blue:visited, a.site_blue:active, a.site_blue:link { color: blue; te=
+xt-decoration: none; }
+
+a.site_blue:hover { color: red; text-decoration: underline; }
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.blogjava.net/Skins/MTRusty/style.css
+
+body { font-family: georgia, verdana, arial, sans-serif; margin: 5px; width=
+: 728px; word-wrap: break-word; background: rgb(108, 100, 87); }
+
+a { color: rgb(153, 51, 0); text-decoration: underline; }
+
+a:visited { color: rgb(153, 51, 0); }
+
+a:active { color: rgb(153, 51, 0); }
+
+a:link { color: rgb(153, 51, 0); }
+
+a:hover { color: rgb(153, 51, 0); text-decoration: underline; }
+
+h1 { font-family: Verdana, arial; font-size: 20px; }
+
+h1 a:visited, h1 a:active, h1 a:link { color: rgb(204, 153, 51); font-weigh=
+t: normal; }
+
+h1 a:hover { color: rgb(68, 119, 255); }
+
+h2 { font-family: georgia, verdana, arial, sans-serif; color: rgb(204, 204,=
+ 204); text-transform: uppercase; font-weight: bold; }
+
+div.post { font-family: georgia, verdana, arial, sans-serif; color: rgb(102=
+, 102, 102); padding: 10px; width: 640px; background: rgb(255, 255, 255); }
+
+div.post h2 { font-family: georgia, verdana, arial, sans-serif; font-size: =
+0.6em; text-transform: uppercase; font-weight: bold; margin-top: 8px; color=
+: rgb(153, 51, 0); }
+
+div.post h2 a { color: rgb(153, 51, 0); text-decoration: none; font-weight:=
+ bold; }
+
+div.post h2 a:visited { color: rgb(153, 51, 0); text-decoration: none; font=
+-weight: bold; }
+
+div.post h2 a:link { color: rgb(153, 51, 0); font-weight: bold; text-decora=
+tion: none; }
+
+div.post h2 a:hover { color: rgb(153, 51, 0); text-decoration: underline; }
+
+div.imageframe h1 { font-size: 0.8em; }
+
+div.imageframe a { font-size: 0.8em; }
+
+h5 { margin: 0px; padding: 0px; color: rgb(51, 51, 51); }
+
+#top { font-family: georgia, verdana, arial, sans-serif; color: rgb(255, 25=
+5, 255); font-size: 13px; border: 1px dotted rgb(255, 255, 255); letter-spa=
+cing: 0.2em; padding-bottom: 15px; padding-left: 15px; width: 890px; paddin=
+g-top: 15px; background: rgb(153, 51, 0); }
+
+#top a, #top a:link, #top a:visited, #top a:active, #top a:hover { font-fam=
+ily: georgia, verdana, arial, sans-serif; color: rgb(255, 255, 255); text-d=
+ecoration: none; font-weight: bold; letter-spacing: 0.1em; }
+
+#tagline { font-family: verdana, arial, sans-serif; color: rgb(255, 255, 25=
+5); font-size: 13px; font-weight: bold; text-transform: none; letter-spacin=
+g: 0.05em; background: rgb(153, 51, 0); }
+
+p.date img { vertical-align: middle; }
+
+p.date { color: rgb(51, 51, 51); font-family: georgia, verdana, arial, sans=
+-serif; font-size: 0.8em; font-weight: bold; padding: 5px; border-bottom-wi=
+dth: 1px; border-bottom-style: solid; border-bottom-color: rgb(102, 102, 10=
+2); }
+
+blockquote { font-style: italic; }
+
+p.postfoot { font-family: georgia, verdana, arial, sans-serif; font-size: 0=
+.75em; color: rgb(102, 102, 102); padding-top: 10px; width: 480px; }
+
+#rightmenu { position: absolute; margin-top: 0px; border-left-width: 1px; b=
+order-left-style: dotted; border-left-color: rgb(255, 255, 255); border-rig=
+ht-width: 1px; border-right-style: dotted; border-right-color: rgb(255, 255=
+, 255); border-bottom-width: 1px; border-bottom-style: dotted; border-botto=
+m-color: rgb(255, 255, 255); padding-left: 0px; padding-right: 0px; padding=
+-bottom: 10px; width: 230px; margin-left: 660px; margin-right: 0px; backgro=
+und: rgb(255, 153, 51); }
+
+#rightmenu a, #rightmenu a:link, #rightmenu a:visited, #rightmenu a:active =
+{ color: rgb(153, 51, 0); text-decoration: none; font-size: 12px; }
+
+#rightmenu a:hover { font-weight: bold; }
+
+#rightmenu h3 { font-family: verdana, arial, sans-serif; color: rgb(255, 25=
+5, 255); font-size: 11px; font-weight: normal; line-height: 140%; padding: =
+2px; margin-top: 10px; letter-spacing: 0.1em; border-bottom-width: 1px; bor=
+der-bottom-style: solid; border-bottom-color: rgb(255, 255, 255); text-alig=
+n: center; margin-left: 10px; margin-right: 10px; background: rgb(255, 153,=
+ 51); }
+
+#rightmenu ul { list-style: none; color: rgb(153, 51, 0); margin: 0px 10px =
+10px; font-size: 12px; font-weight: normal; }
+
+#main { width: 660px; padding: 10px; border-left-width: 1px; border-left-st=
+yle: dotted; border-left-color: rgb(255, 255, 255); border-bottom-width: 1p=
+x; border-bottom-style: dotted; border-bottom-color: rgb(255, 255, 255); bo=
+rder-right-width: 1px; border-right-style: dotted; border-right-color: rgb(=
+255, 255, 255); background: rgb(255, 255, 255); }
+
+#main h2 { font-size: 0.8em; color: rgb(153, 51, 0); text-transform: upperc=
+ase; }
+
+#main h1 { font-size: 0.8em; color: rgb(153, 51, 0); text-transform: upperc=
+ase; }
+
+#footer { padding-top: 20px; text-align: left; font-size: 0.7em; padding-le=
+ft: 10px; color: black; width: 500px; }
+
+input.text { width: 300px; }
+
+textarea { width: 300px; height: 200px; }
+
+h4 { color: rgb(51, 51, 51); }
+
+#comments h4 span { color: rgb(51, 51, 51); }
+
+#comments h4 { margin: 0px; font-size: 0.8em; color: rgb(51, 51, 51); paddi=
+ng-top: 10px; }
+
+p { margin: 0px; font-size: 0.8em; color: rgb(102, 102, 102); }
+
+h3 { margin: 0px; padding-top: 15px; font-size: 0.9em; color: rgb(51, 51, 5=
+1); text-decoration: none; border: 0px solid rgb(255, 255, 255); }
+
+#relatedlinks ul { list-style: none; margin-left: 10px; padding: 0px; }
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.blogjava.net/images/xml.gif
+
+R0lGODlhGgAKANUAAP+CLtyHTs9SBf9bAPjx6vns5LNWGPGugpQ7AMlhG/9tAPzCm+JhC/yzg+l1
+J/2rduGxkO3Tw/+aV/RcAP9tCd+QXPrp3fPVwfn///ySS/NkBP7hzeJdBf++kv/l0/ZUAP97Jf/I
+ov/9+e9jCvBpDuq4lviANN+ec+x/NONkD+/Zy//Xu/9wAv317vv5+PzMrOWnf/DBodusjf/Gn1wl
+AeG0lv13H/9fAP9pAP9gAP+FNKNHC/9iAP+xfv////9mACH5BAAAAAAALAAAAAAaAAoAAAaxwFlv
+SCwaj8NGADDI3QaDZxTapEpz2Bxvp+PxQJvFQOIxPTyZsedh22RuvziOy/vlGphGoSZY+C4jKz4Q
+Dj4VE3E/c12JL38CEzMFBTEbgw4ih4mLdT83HT4qHDwhESU+JwSEIgEfnZyeEi4lLgc3ISoOBwkt
+NYUwJgAUinRfFnwLBCgdEQwfEy0yDi0FFhcOOYs4CiwUowokDBQjGgoK3jgUKevlLDsGCPHy8/T1
+8jRBADs=
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.blogjava.net/Images/OutliningIndicators/None.gif
+
+R0lGODlhCwAQAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAALABAAQAIMlI+py+0Po5y02lQA
+ADs=
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.blogjava.net/paulwong/aggbug/368930.html?webview=1
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAABAAEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5/ooo
+oA//2Q==
+------=_NextPart_000_F81F_72A2C5DE.AA019931
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.blogjava.net/Modules/CaptchaImage/JpegImage.aspx?cacheid=20150603100631
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAeAGQDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3r7nC
+/wAPCjpnvgDgdOh/+vR9zhf4eFHTPfAHA6dD/wDXo+5wv8PCjpnvgDgdOh/+vR9zhf4eFHTPfAHA
+6dD/APXoAPucL/Dwo6Z74A4HTof/AK9Y99qt1aiWS3tR9ntztLzEpu9lXjOPWtG6uodPt2mmfZHH
+wOOvfaBwDx0//XWPDHLrbLLcsI7NGzFagjMnfnoOn+euQC5PrVvZ2UUrAiR4g8cIBzg846AYA4z9
+ada6kV0Vb+6CxgKSFXIBGeABwDxjB/8Ar1V8RFY7HyYkxLM6wKcYJGc46dBwPxNM12IpbafYJuMR
+lWMjONw449PTmgCzZavJLeJay2cluzJvhywIZeuMcAHHT0pLvWxa3EkFtayT/Zx+8YEBVHUjHfAH
+8/eoZCZPF0CRHi2gORgc5z8o6diPyrL02O+NrfXcN2IGjdm2BR87AZIPtgfzoA6q1nSe2jmiztYf
+IrcH1K44HAGPzqb7nC/w8KOme+AOB06H/wCvVLS7w3mmQ3GBuK7do4yR1AHA7cf/AK6uD5BgcbeF
+HTPfAHA6dD/9egBfucL/AA8KOme+AOB06H/69H3OF/h4UdM98AcDp0P/ANej7nC/w8KOme+AOB06
+H/69J9zhf4eFHTPfAHA6dD/9egBf3ifJEilV4+ZtuPYYHSij94nyRIpVePmbbj2GB0ooAPucL/Dw
+o6Z74A4HTof/AK9H3OF/h4UdM98AcDp0P/16G/cxs38Ma5H06kY4HQcf5yN+5jZv4Y1yPp1IxwOg
+4/zkAo6hpVvqCqkxkxHwiqcZ7kAcDpwD/hUVloVppt2biAyFwNqhyDk9Tjgc4759fStNv3MbN/DG
+uR9OpGOB0HH+cjfuY2b+GNcj6dSMcDoOP85AKN1pyXF7bTNIQLY5jjwPmPXA6dgMfT2pNT01b+AR
+B3ikhbMLrx83XAHA6VeYCFGkx8sa8fTqRjgdBx/nI+YYmYHCxrkfTqRjgdBx/nIBn6dpa6X5riRp
+p5MBmbjdjnAHTp7/AMqoXGgXSXE62V55dtcE+ZGw5JPOAOh/MVvkeREWH3I1JH06kY+nT/OVb9zG
+zfwxrkfTqRjgdBx/nIBBaW62NpHbxknyl2gnguep44H4/X3qf7nC/wAPCjpnvgDgdOh/+vQ37mNm
+/hjXI+nUjHA6Dj/ORv3MbN/DGuR9OpGOB0HH+cgB9zhf4eFHTPfAHA6dD/8AXpu0IcDnbwgP54A4
+HTof/r0r/uYmboqKSMencY4HQcf5yH9zEW/hjXI+nUjHA6Dj/OQBv74fLCE2Dj58rj2HHSinHz0w
+sSRsg6bn249sAUUAf//ZDQo8IURPQ1RZUEUgSFRNTCBQVUJMSUMgIi0vL1czQy8vRFREIEhUTUwg
+NC4wIFRyYW5zaXRpb25hbC8vRU4iID4NCjxIVE1MPg0KCTxIRUFEPg0KCQk8dGl0bGU+SnBlZ0lt
+YWdlPC90aXRsZT4NCgkJPG1ldGEgbmFtZT0iR0VORVJBVE9SIiBDb250ZW50PSJNaWNyb3NvZnQg
+VmlzdWFsIFN0dWRpbyA3LjAiPg0KCQk8bWV0YSBuYW1lPSJDT0RFX0xBTkdVQUdFIiBDb250ZW50
+PSJDIyI+DQoJCTxtZXRhIG5hbWU9InZzX2RlZmF1bHRDbGllbnRTY3JpcHQiIGNvbnRlbnQ9Ikph
+dmFTY3JpcHQiPg0KCQk8bWV0YSBuYW1lPSJ2c190YXJnZXRTY2hlbWEiIGNvbnRlbnQ9Imh0dHA6
+Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vaW50ZWxsaXNlbnNlL2llNSI+DQoJPC9IRUFEPg0KCTxi
+b2R5Pg0KCQk8Zm9ybSBuYW1lPSJKcGVnSW1hZ2VGb3JtIiBtZXRob2Q9InBvc3QiIGFjdGlvbj0i
+SnBlZ0ltYWdlLmFzcHg/Y2FjaGVpZD0yMDE1MDYwMzEwMDYzMSIgaWQ9IkpwZWdJbWFnZUZvcm0i
+Pg0KPGRpdj4NCjxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9Il9fVklFV1NUQVRFIiBpZD0iX19W
+SUVXU1RBVEUiIHZhbHVlPSIvd0VQRHdVS0xUVXhNVGN3TnpneE1HUmtXamMrRVBUYjhVVHQ5bE15
+dXBnSzJaN1hIY0k9IiAvPg0KPC9kaXY+DQoNCjxkaXY+DQoNCgk8aW5wdXQgdHlwZT0iaGlkZGVu
+IiBuYW1lPSJfX1ZJRVdTVEFURUdFTkVSQVRPUiIgaWQ9Il9fVklFV1NUQVRFR0VORVJBVE9SIiB2
+YWx1ZT0iOTNCODQyNkEiIC8+DQo8L2Rpdj4NCgkJPC9mb3JtPg0KCTwvYm9keT4NCjwvSFRNTD4N
+Cg==
+------=_NextPart_000_F81F_72A2C5DE.AA019931--

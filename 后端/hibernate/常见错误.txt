@@ -1,0 +1,14 @@
+##为关联的映射： 配置 mapping-resources 添加*.hbm.xml条目
+无法创建表，语法错误：属性，类名包含相应数据库关键字
+
+##org.hibernate.annotations.common.reflection.java.JavaReflectionManager cannot be cast to org.hibernate.annotations.common.reflection.MetadataProviderInjector
+Hibernate annotation module is merged into Hibernate core module since v3.5 (if not mistake). In this case, Hibernate is detected two annotation modules, from both “Hibernate core” and “Hibernate annotation“, causing conflict and prompt the ClassCastException.
+
+To fix it, just delete both of the hibernate-annotations-3.4.0.GA.jar and hibernate-commons-annotations-3.0.0.GA.jar, because latest Hibernate core library is able to perform annotation task without other dependency.
+
+project->clean
+
+
+##Write operations are not allowed in read-only mode (FlushMode.MANUAL): Turn your Session into FlushMode.COMMIT/AUTO or remove 'readOnly' marker from transaction 
+操作没有在spring事务管理器中运行，
+配置事务管理器，配置声明式事务或注解式事务（<context:component-scan base-package="">），必须和事务管理器在一个spring上下文中配置。

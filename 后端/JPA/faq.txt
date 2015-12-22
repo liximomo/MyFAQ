@@ -1,0 +1,29 @@
+#mappedBy
+I have a Vehicle and Driver POJO's both represent entities on the Database both of them are mapped like this: 
+@Entity
+@Table(name = "vehicle", catalog = "mycatalog")
+public class Vehicle implements java.io.Serializable {
+ 
+    private String id;
+   @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "id_transportista", nullable = false)
+    private Driver transportista;
+    private String description;
+    private String color;
+    private Float weight;
+....
+}
+
+@Entity
+@Table(name="driver",catalog="mycatalog")
+public class Transportista  implements java.io.Serializable {
+ 
+ 
+     private Integer idTransportista;
+     private String nombre;
+     private String direccion;
+@OneToMany(cascade=CascadeType.ALL, fetch=FetchType.LAZY, mappedBy="transportista")
+     private Set<Vehicle> vehiculos = new HashSet<Vehicle>(0);
+
+
+As you can see the mappedBy is the refering to a "transportista" object in Vehicle class which said something like this
